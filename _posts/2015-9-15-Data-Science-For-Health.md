@@ -3,8 +3,7 @@ layout: post
 title: 'Data Science for Health' in Cambridge
 ---
 
-
-Yesterday I attended ‘Data Science for Health – an Alan Turing Institute Summit’ at the Centre for Mathematical Sciences, Cambridge. This post is a brief summary of topics raised that particularly interested me. My background: I have an undergraduate degree in physics, I’m currently doing a computational biology PhD, and I’m interested in the potential of using electronic data to improve healthcare, particularly public health.
+Yesterday I attended ‘Data Science for Health – an Alan Turing Institute Summit’ at the Centre for Mathematical Sciences, Cambridge. This post is a brief summary of topics raised that particularly interested me. My background: I have an undergraduate degree in physics, I’m currently doing a computational biology PhD, and I’m interested in the potential of using electronic data to improve healthcare, particularly public health.
 
 The <a href="https://turing.ac.uk/" target="_blank">Alan Turing Institute</a> (ATI) is a cross-university collaboration between Oxford, Cambridge, Edinburgh, UCL, and Warwick, with physical headquarters at the British Library. It aims to “undertake data science research at the intersection of computer science, mathematics, statistics and systems engineering; provide technically informed advice to policy makers on the wider implications of algorithms; enable researchers from industry and academia to work together to undertake research with practical applications; and act as a magnet for leaders in academia and industry from around the world to engage with the UK in data science and its applications.”
 
