@@ -3,7 +3,7 @@ layout: post
 title: This one weird trick for online health advice is...surprisingly accurate?!?
 ---
 
-I have acne. Occasionally, I read online forums because I like knowing the experiences of other people with acne. For example, a long time ago I started using a prescription facial cream and wasn't enjoying the side effects. I wanted to know how long I could expect these to last, so I browsed around some different forums and read dozens of different people's experiences until I'd satisfied my curiosity.
+Occasionally, I read online forums about health products. For example, a long time ago I started using a medication and wanted to know how long I could expect these to last, so I browsed around some different forums and read dozens of different people's experiences until I'd satisfied my curiosity.
 
 People enthusiastic about 'asking for evidence' might be critical of my decision to take health advice from random strangers on the internet. I think that's a patronising attitude to take. (Disclaimer: I'm a <a href="http://askforevidence.org/articles/ambassadors">2016 'Ask for Evidence' ambassador</a>. Please don't fire me.)
 
@@ -12,7 +12,7 @@ I didn't base my decisions on the random strangers alone:
 	<li>I asked my GP when I got the medication about side effects</li>
 	<li>I read NHS Choices</li>
 	<li>I read WebMD</li>
-	<li>I asked a Real Dermatologist who I know personally</li>
+	<li>I asked a Real Doctor who I know personally</li>
 </ul>
 Discussion forums were one component of my decision to keep using the medication. But they were a very useful one that provided something none of the others did: patient experiences. I think there's something valuable in hearing from normal people as well as medical professionals, and anecdotally from my personal experience the advice given seems pretty good.
 <h2>how bad is dangerous?</h2>
