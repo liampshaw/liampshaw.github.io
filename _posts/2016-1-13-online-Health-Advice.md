@@ -3,7 +3,9 @@ layout: post
 title: This one weird trick for online health advice is...surprisingly accurate?!?
 ---
 
-Occasionally, I read online forums about (legal) drugs. For example, a long time ago I started using a medication and experienced some mild side effects. I wanted to know how long I could expect these to last, so I browsed around some different forums and read dozens of different people's experiences until I'd satisfied my curiosity.
+Occasionally, I read online forums about (legal) drugs. Is this a good idea?
+
+For example, a long time ago I started using a medication and experienced some mild side effects. I wanted to know how long I could expect these to last, so I browsed around some different forums and read dozens of different people's experiences until I'd satisfied my curiosity.
 
 People enthusiastic about 'asking for evidence' might be critical of my decision to take health advice from random strangers on the internet. I think that's a patronising attitude to take. (Disclaimer: I'm a <a href="http://askforevidence.org/articles/ambassadors">2016 'Ask for Evidence' ambassador</a>. Please don't fire me.)
 
