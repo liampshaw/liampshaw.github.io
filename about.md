@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a computational biology PhD student at UCL. 
 
-### More Information
+I have a sparse academic website here: http://ucl.ac.uk/~ucbpsha
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[liam dot philip dot shaw] at gmail.com
