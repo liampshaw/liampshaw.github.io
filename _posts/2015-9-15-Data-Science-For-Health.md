@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Data Science for Health' in Cambridge
+title: Data Science for Health in Cambridge
 ---
 
 Yesterday I attended ‘Data Science for Health – an Alan Turing Institute Summit’ at the Centre for Mathematical Sciences, Cambridge. This post is a brief summary of topics raised that particularly interested me. My background: I have an undergraduate degree in physics, I’m currently doing a computational biology PhD, and I’m interested in the potential of using electronic data to improve healthcare, particularly public health.
