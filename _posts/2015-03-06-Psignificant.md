@@ -3,7 +3,7 @@ layout: post
 title: The significance of 'psignificance'
 ---
 
-The misuse of significance is highly significant. That's the problem.
+The misuse of significance in science is highly significant. That's the problem.
 
 Statistical significance is a concept that even established researchers get completely wrong. If you don't believe me, just read <a href="https://mchankins.wordpress.com/2013/04/21/still-not-significant-2/">the list of increasingly desperate descriptions of non-significant results</a> (compiled by <a href="https://twitter.com/mc_hankins">Matthew Hankins</a>).
 
