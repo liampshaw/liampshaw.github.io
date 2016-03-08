@@ -3,7 +3,7 @@ layout: post
 title: Identifying exaggerated scientific press releases 
 ---
 
-We now know that scientific press releases often exaggerate. But can we identify the worst offenders?
+Thanks to a recent paper we now know that scientific press releases often exaggerate. But can we identify the worst offenders?
 
 A <a href="http://www.bmj.com/content/349/bmj.g7015">recent paper</a> by Sumner et al. in the BMJ analysed 462 press releases associated with scientific papers related to health research published by 20 leading UK universities in 2011. They found that, when compared to the original journal article,
 <ul>
