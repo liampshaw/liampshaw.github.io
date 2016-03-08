@@ -37,4 +37,4 @@ With this new word, I look forward to statements like this appearing in publishe
 
 This post is just a dumb suggestion. But I don't think it's fair to blame non-statisticians for misusing p-values when the language used to describe them is misleading. 
 
-**EDIT:** It also turns out others have had this idea before, but it's not widely used. Maybe psignificance needs it's <a href="http://tauday.com/tau-manifesto">Tau Manifesto</a>.
+**EDIT:** It also turns out others have had this idea before, but it's not widely used. Maybe psignificance needs it's own <a href="http://tauday.com/tau-manifesto">Tau Manifesto</a>.
