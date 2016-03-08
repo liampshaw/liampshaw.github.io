@@ -3,6 +3,8 @@ layout: post
 title: The significance of 'psignificance'
 ---
 
+The misuse of significance is highly significant. That's the problem.
+
 Statistical significance is a concept that even established researchers get completely wrong. If you don't believe me, just read <a href="https://mchankins.wordpress.com/2013/04/21/still-not-significant-2/">the list of increasingly desperate descriptions of non-significant results</a> (compiled by <a href="https://twitter.com/mc_hankins">Matthew Hankins</a>).
 
 I think this confusion is largely to do with language. After doing a hypothesis test, the word 'significant' has a precise meaning: it means that the probability of observing the given result if the null hypothesis was true has been calculated and found to be less than some arbitrary pre-determined significance level. This arbitrary level is usually taken to be 0.05, corresponding to a 1 in 20 chance that you'd see the same result if the null hypothesis were true. (If you followed that explanation you've almost certainly heard it before.)
