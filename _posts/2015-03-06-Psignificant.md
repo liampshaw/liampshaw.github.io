@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The significance of 'psignificance'
+title: Significantly misused
 ---
 
 The misuse of significance in science is highly significant. That's the problem.
