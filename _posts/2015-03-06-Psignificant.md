@@ -7,7 +7,7 @@ Statistical significance is a concept that even established researchers get comp
 
 I think this confusion is largely to do with language. After doing a hypothesis test, the word 'significant' has a precise meaning: it means that the probability of observing the given result if the null hypothesis was true has been calculated and found to be less than some arbitrary pre-determined significance level. This arbitrary level is usually taken to be 0.05, corresponding to a 1 in 20 chance that you'd see the same result if the null hypothesis were true. (If you followed that explanation you've almost certainly heard it before.)
 
-However, this meaning of 'significant' is *different* to its everyday meaning.
+However, this meaning of 'significant' is **different** to its everyday meaning.
 
 <img class="alignnone" src="http://www.quickmeme.com/img/9d/9d488c4dd6b949416c85906c5bd7a4c3d3163632d5606a6a068e487c0f3a2d73.jpg" alt="" width="625" height="351" />
 
@@ -15,11 +15,10 @@ When you say a result is 'significant' to most non-statisticians, they're likely
 
 Conversely, saying a result is 'not significant' sounds like you're saying it is none of those things.
 
-Is it any wonder that people become obsessed over whether the p-value passes that arbitrary <em>p &lt; 0.05</em> threshold when they hear in Applied Stats 101 that their result won't be 'important' unless it does?
+Is it any wonder that people become obsessed over whether the p-value passes that arbitrary <em>p &lt; 0.05</em> threshold when they hear in Applied Stats 101 that their result won't be **important*' unless it does?
 
-<img class="alignnone" src="http://memecreator.eu/media/created/2hgv00.jpg" alt="" width="600" height="354" />
 
-Things are further complicated by the fact that 'clinical significance' is also a thing. I've noticed particularly in medical studies it's not uncommon talk about results as being 'significant' and imply that they're clinically significant or important, whereas in fact they're probably not.
+Things are further complicated by the fact that 'clinical significance' is also a thing. I've noticed particularly in medical studies it's not uncommon talk about results as being 'significant' and imply that they're **clinically** significant or important, whereas in fact they're probably not.
 
 The Wikipedia page on statistical significance stresses:
 
@@ -36,4 +35,6 @@ With this new word, I look forward to statements like this appearing in publishe
 
 <hr />
 
-<em>This post is just a dumb suggestion. But I don't think it's completely fair to blame non-statisticians for misusing p-values when the language used to describe them is misleading.</em>
+This post is just a dumb suggestion. But I don't think it's fair to blame non-statisticians for misusing p-values when the language used to describe them is misleading. 
+
+**EDIT:** It also turns out others have had this idea before, but it's not widely used. Maybe psignificance needs it's <a href="http://tauday.com/tau-manifesto">Tau Manifesto</a>.
