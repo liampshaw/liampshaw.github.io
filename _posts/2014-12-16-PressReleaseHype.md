@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Identifying exaggerated press releases from public data
+title: Identifying exaggerated scientific press releases 
 ---
 
 We now know that scientific press releases often exaggerate. But can we identify the worst offenders?
