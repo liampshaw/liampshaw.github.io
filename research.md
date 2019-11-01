@@ -10,7 +10,7 @@ The increasing availability of complete bacterial genomes allows the investigati
 
 ### Microbial ecology
 
-The human microbiome is the collective name given to the microbial communities that live in our bodies. During my PhD, I applied statistical and mathematical models to understand the factors that influence the microbiome's composition, both in [health](https://doi.org/10.1128/mBio.01237-17) and [disease](https://doi.org/10.1128/AEM.01756-16).  One topic that I'm still interested in is understanding the effect of antibiotics: how they disrupt microbial communities and how the community [recovers](https://doi.org/10.1101/222398).
+The human microbiome is the collective name given to the microbial communities that live in our bodies. I like the phrase 'microbial ecology' to describe the work of understanding these (and other) systems. During my PhD, I applied statistical and mathematical models to understand the factors that influence the microbiome's composition, both in [health](https://doi.org/10.1128/mBio.01237-17) and [disease](https://doi.org/10.1128/AEM.01756-16).  One topic that I'm still interested in is understanding the effect of antibiotics: how they disrupt microbial communities and how the community [recovers](https://doi.org/10.1101/222398).
 
 ### Antimicrobial resistance
 
