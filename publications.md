@@ -42,6 +42,7 @@ Harjunmaa, R. Doyle, J. Jornstedt, S. Kamiz, J.M. Jorgensen, C.P. Stewart, **L. 
 
 F. Lassalle⁺, M. Spagnoletti⁺, M. Fumagalli, **L. P. Shaw**, M. Dyble, C. Walker, M. G. Thomas, A. Bamberg Migliano, F. Balloux. Deep sequencing of oral microbiomes from hunter-gatherers and traditional agriculturalists reveals shifts in commensal taxon balance and pathogen load linked to subsistence strategy. *Molecular Ecology* 27:182-195 (2018) doi: [10.1111/mec.14435](https://doi.org/10.1111/mec.14435)
 
+
 ## 2017
 
 L. P. Shaw⁺, A. Ribeiro⁺, A. Levine, N. Pontikos, F. Balloux, A. Segal, A. Roberts, A. Smith. The human salivary microbiome is shaped by shared environment rather than genetics: evidence from a large family of closely related individuals. *mBio* 8(5):e01237-17 (2017) [10.1128/mBio.01237-17](https://doi.org/10.1128/mBio.01237-17)
@@ -60,4 +61,4 @@ D. Jeffares, C. Jolly, M. Hoti, D. Speed, C. Rallis, **L. P. Shaw**, F. Balloux,
 
 J. Schreck, T. Ouldridge, F. Romano, P. Sulc, **L. P. Shaw**, A. Louis, J. Doye. DNA hairpins destabilize duplexes primarily by promoting melting rather than by inhibiting hybridization. *Nucleic Acids Research* 43(13):6181-6190 (2015) doi: [10.1093/nar/gkv582](https://doi.org/10.1093/nar/gkv582)
 
-<font size="1">Note: ⁺ denotes equal contribution by authors</font>
+<font size="1">⁺ denotes equal contribution by authors. This might seem weird if you haven't seen it before, but it's fairly common in biology papers (and increasingly so). If you want to procrastinate, you can read about how determining the order of academic authorship is [highly discipline-specific](https://en.wikipedia.org/wiki/Academic_authorship#Order_of_authors_in_a_list).</font>
