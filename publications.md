@@ -8,9 +8,9 @@ I attempt to keep this list up-to-date, but see [Google Scholar](https://scholar
 
 ## 2019
 
-H. G. Soon, L. P. Shaw et al. on behalf of the REHAB consortium. The impact of sequencing depth on the inferred taxonomic composition and AMR gene content of metagenomic samples. Environmental Microbiome (in press, 2019) Preprint Biorxiv doi: 10.1101/593301
+H. G. Soon, L. P. Shaw et al. on behalf of the REHAB consortium. The impact of sequencing depth on the inferred taxonomic composition and AMR gene content of metagenomic samples. *Environmental Microbiome* (2019) Preprint Biorxiv doi: 10.1101/593301
 
-N. De Maio*, L. P. Shaw* et al. on behalf of the REHAB consortium. Comparison of long-read sequencing technologies in the hybrid assembly of complex bacterial genomes. Microbial Genomics (2019) doi: 10.1099/mgen.0.000294
+N. De Maio<sup>₊</sup>, **L. P. Shaw** et al. on behalf of the REHAB consortium. Comparison of long-read sequencing technologies in the hybrid assembly of complex bacterial genomes. *Microbial Genomics* (2019) doi: 10.1099/mgen.0.000294
 
 L. P. Shaw*, A. Wang*, D. Dylus, M. Meier, G. Pogacnik, C. Dessimoz, F. Balloux. The phylogenetic range of bacterial and viral pathogens of vertebrates. Preprint: Biorxiv (2019) doi: 10.1101/670315
 
