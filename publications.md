@@ -9,7 +9,7 @@ I attempt to keep this list up-to-date (last updated: 1<sup>st</sup> November 20
 ## Preprints
 
 The phylogenetic range of bacterial and viral pathogens of vertebrates  
-**L. P. Shaw**⁺, A. Wang⁺, D. Dylus, M. Meier, G. Pogacnik, C. Dessimoz, F. Balloux. *Biorxiv* (2019)  
+**L. P. Shaw**⁺, A. Wang⁺, et al. *Biorxiv* (2019)  
 doi: [10.1101/670315](https://doi.org/10.1101/670315)
 
 Genomic diversity affects the accuracy of bacterial SNP calling pipelines  
@@ -28,7 +28,7 @@ N. De Maio⁺, **L. P. Shaw**⁺ et al. on behalf of the [REHAB consortium](http
 doi: [10.1099/mgen.0.000294](https://doi.org/10.1099/mgen.0.000294)
 
 Whole genome sequencing *Mycobacterium tuberculosis* directly from sputum identifies more genetic diversity than sequencing from culture  
-C. Nimmo, **L. P. Shaw**, R. Doyle, R. Williams, K. Brien, C. Burgess, J. Breuer, F. Balloux, A. Pym. *BMC Genomics* 20(1):389 (2019)  
+C. Nimmo, **L. P. Shaw**, et al. *BMC Genomics* 20(1):389 (2019)  
 doi: [10.1186/s12864-019-5782-2](https://doi.org/10.1186/s12864-019-5782-2)
 
 Representing antibiotic relationships using measurements of efficacy against clinical isolates [version 2; peer review: 1 approved]  
@@ -55,11 +55,11 @@ F. C. Fitzgerald, E. L'homme, K. Harris, J. Kenny, R. Doyle, C. Kityo, **L. P. S
 doi: [10.1093/infdis/jiy495](https://doi.org/10.1093/infdis/jiy495)
 
 Review: From theory to practice: translating whole-genome sequencing (WGS) into the clinic  
-F. Balloux⁺, O. B. Brynildsrud⁺, L. van Dorp⁺, **L. P. Shaw**, H. Chen,  K. A. Harris, H. Wang, V. Eldholm. *Trends in Microbiology* 26(12):1035-1048 (2018)  
+F. Balloux⁺, O. B. Brynildsrud⁺, L. van Dorp⁺, **L. P. Shaw**, et al. *Trends in Microbiology* 26(12):1035-1048 (2018)  
 doi: [10.1016/j.tim.2018.08.004](https://doi.org/10.1016/j.tim.2018.08.004)
 
 The global distribution and spread of the mobilized colistin resistance gene *mcr-1*  
-R. Wang⁺, L. van Dorp⁺, **L. P. Shaw***⁺ et al. *Nature Communications* 9:1179 (2018)  
+R. Wang⁺, L. van Dorp⁺, **L. P. Shaw**⁺ et al. *Nature Communications* 9:1179 (2018)  
 doi: [10.1038/s41467-018-03205-z](https://doi.org/10.1038/s41467-018-03205-z)
 
 Periapical infection may affect birth outcomes via systemic inflammation  
@@ -67,7 +67,7 @@ Harjunmaa, R. Doyle, J. Jornstedt, S. Kamiz, J.M. Jorgensen, C.P. Stewart, **L. 
 doi: [10.1111/odi.12817](https://doi.org/10.1111/odi.12817)
 
 Deep sequencing of oral microbiomes from hunter-gatherers and traditional agriculturalists reveals shifts in commensal taxon balance and pathogen load linked to subsistence strategy  
-F. Lassalle⁺, M. Spagnoletti⁺, M. Fumagalli, **L. P. Shaw**, M. Dyble, C. Walker, M. G. Thomas, A. Bamberg Migliano, F. Balloux. *Molecular Ecology* 27:182-195 (2018)  
+F. Lassalle⁺, M. Spagnoletti⁺, M. Fumagalli, **L. P. Shaw**, et al. *Molecular Ecology* 27:182-195 (2018)  
 doi: [10.1111/mec.14435](https://doi.org/10.1111/mec.14435)
 
 
@@ -78,7 +78,7 @@ doi: [10.1111/mec.14435](https://doi.org/10.1111/mec.14435)
  doi: [10.1128/mBio.01237-17](https://doi.org/10.1128/mBio.01237-17)
 
 Review: The oral microbiome  
-**L. P. Shaw**, A. Smith, A. Roberts. . *Emerging Topics in Life Sciences* 1(4):287-296 (2017)  
+**L. P. Shaw**, A. Smith, A. Roberts. *Emerging Topics in Life Sciences* 1(4):287-296 (2017)  
 doi: [10.1042/ETLS20170040](https://doi.org/10.1042/ETLS20170040)
 
 Transient structural variations have strong effects on quantitative traits and reproductive isolation in fission yeast  
