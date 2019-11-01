@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-## Main interests
-
 ### Bacterial genomics
 
 The increasing availability of complete bacterial genomes allows the investigation of the processes which underpin bacterial evolution. I'm particularly interested in the spread of mobile genetic elements which move ['horizontally'](https://doi.org/10.1038/s41467-018-03205-z) across bacterial genomes and even species, and untangling this nested genetic complexity. These elements includes plasmids as well as smaller transposons which can carry genes for antimicrobial resistance.

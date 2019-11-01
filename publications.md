@@ -61,4 +61,4 @@ D. Jeffares, C. Jolly, M. Hoti, D. Speed, C. Rallis, **L. P. Shaw**, F. Balloux,
 
 J. Schreck, T. Ouldridge, F. Romano, P. Sulc, **L. P. Shaw**, A. Louis, J. Doye. DNA hairpins destabilize duplexes primarily by promoting melting rather than by inhibiting hybridization. *Nucleic Acids Research* 43(13):6181-6190 (2015) doi: [10.1093/nar/gkv582](https://doi.org/10.1093/nar/gkv582)
 
-<font size="1">⁺ denotes equal contribution by authors. This might seem weird if you haven't seen it before, but it's fairly common in biology papers (and increasingly so). If you want to procrastinate, you can read about how determining the order of academic authorship is [highly discipline-specific](https://en.wikipedia.org/wiki/Academic_authorship#Order_of_authors_in_a_list).</font>
+<font size="1">⁺ denotes equal contribution by authors. This might seem weird if you haven't seen it before, but it's fairly common in biology papers (and increasingly so). If you want to procrastinate, you can read about how determining the order of academic authorship is [highly discipline-specific](https://en.wikipedia.org/wiki/Academic_authorship#Order_of_authors_in_a_list). </font>
