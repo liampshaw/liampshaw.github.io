@@ -60,4 +60,4 @@ D. Jeffares, C. Jolly, M. Hoti, D. Speed, C. Rallis, **L. P. Shaw**, F. Balloux,
 
 J. Schreck, T. Ouldridge, F. Romano, P. Sulc, **L. P. Shaw**, A. Louis, J. Doye. DNA hairpins destabilize duplexes primarily by promoting melting rather than by inhibiting hybridization. *Nucleic Acids Research* 43(13):6181-6190 (2015) doi: [10.1093/nar/gkv582](https://doi.org/10.1093/nar/gkv582)
 
-<font size="8">⁺ denotes equal contribution by authors</font>
+<font size="1">Note: ⁺ denotes equal contribution by authors</font>
