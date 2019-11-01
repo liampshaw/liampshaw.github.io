@@ -78,4 +78,4 @@ exclude:
     - CNAME
 
 # Theme
-theme: minima
+theme: minimal-mistakes-jekyll 
