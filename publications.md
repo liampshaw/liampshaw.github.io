@@ -63,7 +63,7 @@ R. Wang⁺, L. van Dorp⁺, **L. P. Shaw**⁺ et al. *Nature Communications* 9:1
 doi: [10.1038/s41467-018-03205-z](https://doi.org/10.1038/s41467-018-03205-z)
 
 Periapical infection may affect birth outcomes via systemic inflammation  
-Harjunmaa, R. Doyle, J. Jornstedt, S. Kamiz, J.M. Jorgensen, C.P. Stewart, **L. P. Shaw**, et al. *Oral Diseases* 24(5):847-855 (2018)  
+U. Harjunmaa, R. Doyle, J. Jornstedt, S. Kamiz, J.M. Jorgensen, C.P. Stewart, **L. P. Shaw**, et al. *Oral Diseases* 24(5):847-855 (2018)  
 doi: [10.1111/odi.12817](https://doi.org/10.1111/odi.12817)
 
 Deep sequencing of oral microbiomes from hunter-gatherers and traditional agriculturalists reveals shifts in commensal taxon balance and pathogen load linked to subsistence strategy  
