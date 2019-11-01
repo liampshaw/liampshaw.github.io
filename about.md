@@ -14,6 +14,6 @@ I have a (sparse) academic website [here](http://ucl.ac.uk/~ucbpsha).
 
 For a list of my publications, see [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=oaQPy0EAAAAJ&authorid=6771231149439344110&view_op=list_works)
 
-### Contact me
+### Contact 
 
 [liam dot philip dot shaw] at gmail.com
