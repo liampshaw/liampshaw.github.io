@@ -10,7 +10,7 @@ I attempt to keep this list up-to-date, but see [Google Scholar](https://scholar
 
 **L. P. Shaw**⁺, A. Wang⁺, D. Dylus, M. Meier, G. Pogacnik, C. Dessimoz, F. Balloux. The phylogenetic range of bacterial and viral pathogens of vertebrates. *Biorxiv* (2019) doi: [10.1101/670315](https://doi.org/10.1101/670315)
 
-S. J. Bush, D. Foster, D. W. Eyre, E. L. Clark, N. De Maio,**L. P. Shaw** et al. Genomic diversity affects the accuracy of bacterial SNP calling pipelines. *Biorxiv* (2019) doi: [10.1101/653774](https://doi.org/10.1101/653774)
+S. J. Bush, D. Foster, D. W. Eyre, E. L. Clark, N. De Maio, **L. P. Shaw** et al. Genomic diversity affects the accuracy of bacterial SNP calling pipelines. *Biorxiv* (2019) doi: [10.1101/653774](https://doi.org/10.1101/653774)
 
 
 ## 2019
@@ -59,3 +59,5 @@ D. Jeffares, C. Jolly, M. Hoti, D. Speed, C. Rallis, **L. P. Shaw**, F. Balloux,
 ## 2015
 
 J. Schreck, T. Ouldridge, F. Romano, P. Sulc, **L. P. Shaw**, A. Louis, J. Doye. DNA hairpins destabilize duplexes primarily by promoting melting rather than by inhibiting hybridization. *Nucleic Acids Research* 43(13):6181-6190 (2015) doi: [10.1093/nar/gkv582](https://doi.org/10.1093/nar/gkv582)
+
+<font size="8">⁺ denotes equal contribution by authors</font>
