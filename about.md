@@ -14,11 +14,11 @@ For a list of my publications, see [Google Scholar](https://scholar.google.co.uk
 
 **2018 — present** Postdoctoral scientist, Oxford
 
-**2014 - 2018** PhD in Computational Biology, UCL
+**2014 — 2018** PhD in Computational Biology, UCL
 
-**2013 - 2014** MRes in Modelling Biological Complexity, UCL
+**2013 — 2014** MRes in Modelling Biological Complexity, UCL
 
-**2009 - 2013** MPhys in Physics, Oxford
+**2009 — 2013** MPhys in Physics, Oxford
 
 ### Contact
 
