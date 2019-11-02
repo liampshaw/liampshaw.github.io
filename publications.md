@@ -9,15 +9,15 @@ I attempt to keep this list up-to-date (last updated: 1<sup>st</sup> November 20
 ## Preprints
 
 The phylogenetic range of bacterial and viral pathogens of vertebrates  
-**L. P. Shaw**⁺, A. Wang⁺, et al. *biorxiv*  
+**L. P. Shaw**⁺, A. Wang⁺, et al. *biorxiv* (2019)  
 doi: [10.1101/670315](https://doi.org/10.1101/670315)
 
 Genomic diversity affects the accuracy of bacterial SNP calling pipelines  
-S. J. Bush, D. Foster, D. W. Eyre, E. L. Clark, N. De Maio, **L. P. Shaw** et al. *biorxiv*  
+S. J. Bush, D. Foster, D. W. Eyre, E. L. Clark, N. De Maio, **L. P. Shaw** et al. *biorxiv* (2019)  
 doi: [10.1101/653774](https://doi.org/10.1101/653774)
 
 Discordant bioinformatic predictions of antimicrobial resistance from whole-genome sequencing data of bacterial isolates: an inter-laboratory study  
-R. M. Doyle, D. M. O'Sullivan, [alphabetical participant list] **L. P. Shaw** et al. *biorxiv*  
+R. M. Doyle, D. M. O'Sullivan, [alphabetical participant list] **L. P. Shaw** et al. *biorxiv* (2019)  
 doi: [10.1101/793885](https://doi.org/10.1101/793885)
 
 
