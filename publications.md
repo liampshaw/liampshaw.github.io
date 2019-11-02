@@ -17,7 +17,7 @@ S. J. Bush, D. Foster, D. W. Eyre, E. L. Clark, N. De Maio, **L. P. Shaw** et al
 doi: [10.1101/653774](https://doi.org/10.1101/653774)
 
 Discordant bioinformatic predictions of antimicrobial resistance from whole-genome sequencing data of bacterial isolates: an inter-laboratory study  
-R. M. Doyle, D. M. O'Sullivan, [alphabetical participant list] **L. P. Shaw** et al. *biorxiv* (2019)  
+R. M. Doyle, D. M. O'Sullivan, [alphabetical: 16 authors inc. **L. P. Shaw**] et al. *biorxiv* (2019)  
 doi: [10.1101/793885](https://doi.org/10.1101/793885)
 
 
