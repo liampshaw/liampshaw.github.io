@@ -63,7 +63,7 @@ F. C. Fitzgerald, E. L'homme, K. Harris, J. Kenny, R. Doyle, C. Kityo, **L. P. S
 doi: [10.1093/infdis/jiy495](https://doi.org/10.1093/infdis/jiy495)
 
 Review: From theory to practice: translating whole-genome sequencing (WGS) into the clinic  
-F. Balloux⁺, O. B. Brynildsrud⁺, L. van Dorp⁺, **L. P. Shaw**, et al. *Trends in Microbiology* 26(12):P1035  
+F. Balloux⁺, O. B. Brynildsrud⁺, L. van Dorp⁺, **L. P. Shaw** et al. *Trends in Microbiology* 26(12):P1035  
 doi: [10.1016/j.tim.2018.08.004](https://doi.org/10.1016/j.tim.2018.08.004)
 
 The global distribution and spread of the mobilized colistin resistance gene *mcr-1*  
