@@ -82,7 +82,7 @@ doi: [10.1111/mec.14435](https://doi.org/10.1111/mec.14435)
 ## 2017
 
  The human salivary microbiome is shaped by shared environment rather than genetics: evidence from a large family of closely related individuals  
- L. P. Shaw⁺, A. Ribeiro⁺, A. Levine, N. Pontikos, F. Balloux, A. Segal, A. Roberts, A. Smith. *mBio* 8:e01237  
+ **L. P. Shaw**⁺, A. Ribeiro⁺, A. Levine, N. Pontikos, F. Balloux, A. Segal, A. Roberts, A. Smith. *mBio* 8:e01237  
  doi: [10.1128/mBio.01237-17](https://doi.org/10.1128/mBio.01237-17)
 
 Review: The oral microbiome  
