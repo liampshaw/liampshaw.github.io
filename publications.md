@@ -20,7 +20,7 @@ doi: [10.1101/793885](https://doi.org/10.1101/793885)
 
 Genomic diversity affects the accuracy of bacterial SNP calling pipelines  
 S. J. Bush, D. Foster, D. W. Eyre, E. L. Clark, N. De Maio, **L. P. Shaw** et al. *GigaScience* (in press)  
-preprint doi: [10.1101/653774](https://doi.org/10.1101/653774)
+doi (preprint): [10.1101/653774](https://doi.org/10.1101/653774)
 
 ## 2019
 
