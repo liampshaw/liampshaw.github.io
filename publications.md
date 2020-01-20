@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this list up-to-date (last updated: 16<sup>th</sup> January 2020). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ).
+I attempt to keep this list up-to-date (last updated: 20<sup>th</sup> January 2020). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ).
 
 ## Preprints
 
@@ -12,11 +12,11 @@ The phylogenetic range of bacterial and viral pathogens of vertebrates
 **L. P. Shaw**⁺, A. Wang⁺, et al. *biorxiv* (2019)  
 doi: [10.1101/670315](https://doi.org/10.1101/670315)
 
-Discordant bioinformatic predictions of antimicrobial resistance from whole-genome sequencing data of bacterial isolates: an inter-laboratory study  
-R. M. Doyle, D. M. O'Sullivan, [alphabetical: 16 authors inc. **L. P. Shaw**] et al. *biorxiv* (2019)  
-doi: [10.1101/793885](https://doi.org/10.1101/793885)
-
 ## 2020
+
+Discordant bioinformatic predictions of antimicrobial resistance from whole-genome sequencing data of bacterial isolates: an inter-laboratory study  
+R. M. Doyle, D. M. O'Sullivan, [alphabetical: 16 authors inc. **L. P. Shaw**] et al. *Microbial Genomics* (in press)  
+doi (preprint): [10.1101/793885](https://doi.org/10.1101/793885)
 
 Genomic diversity affects the accuracy of bacterial SNP calling pipelines  
 S. J. Bush, D. Foster, D. W. Eyre, E. L. Clark, N. De Maio, **L. P. Shaw** et al. *GigaScience* (in press)  
