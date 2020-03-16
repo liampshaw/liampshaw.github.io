@@ -15,12 +15,12 @@ doi: [10.1101/670315](https://doi.org/10.1101/670315)
 ## 2020
 
 Discordant bioinformatic predictions of antimicrobial resistance from whole-genome sequencing data of bacterial isolates: an inter-laboratory study  
-R. M. Doyle, D. M. O'Sullivan, [alphabetical: 16 authors inc. **L. P. Shaw**] et al. *Microbial Genomics* (in press)  
-doi (preprint): [10.1101/793885](https://doi.org/10.1101/793885)
+R. M. Doyle, D. M. O'Sullivan, [alphabetical: 16 authors inc. **L. P. Shaw**] et al. *Microbial Genomics* 6(2) 
+doi: [10.1099/mgen.0.000335](https://doi.org/10.1099/mgen.0.000335)
 
 Genomic diversity affects the accuracy of bacterial SNP calling pipelines  
-S. J. Bush, D. Foster, D. W. Eyre, E. L. Clark, N. De Maio, **L. P. Shaw** et al. *GigaScience* (in press)  
-doi (preprint): [10.1101/653774](https://doi.org/10.1101/653774)
+S. J. Bush, D. Foster, D. W. Eyre, E. L. Clark, N. De Maio, **L. P. Shaw** et al. *GigaScience* 9(2):giaa007 
+doi: [10.1093/gigascience/giaa007](https://doi.org/10.1093/gigascience/giaa007)
 
 ## 2019
 
