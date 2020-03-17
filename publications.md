@@ -14,8 +14,8 @@ doi: [10.1101/670315](https://doi.org/10.1101/670315)
 
 ## 2020
 
-STROBE-Metagenomics: A STROBE/STROME-ID extension statement to guide the reporting of studies applying metagenomics
-T. Bharucha, C. Oeser, [alphabetical: 23 authors inc. **L. P. Shaw**], J. Breuer, N. Field *Lancet Infectious Diseases* (in press)  
+STROBE-Metagenomics: A STROBE/STROME-ID extension statement to guide the reporting of studies applying metagenomics  
+T. Bharucha, C. Oeser, [alphabetical: 23 authors inc. **L. P. Shaw**], J. Breuer, N. Field *Lancet Infectious Diseases* (in press)   
 doi: (in press)
 
 Discordant bioinformatic predictions of antimicrobial resistance from whole-genome sequencing data of bacterial isolates: an inter-laboratory study  
