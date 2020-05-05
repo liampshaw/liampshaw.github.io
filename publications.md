@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this list up-to-date (last updated: 4<sup>th</sup> May 2020). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ).
+I attempt to keep this list up-to-date (last updated: 4<sup>th</sup> May 2020). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). ⁺ denotes equal contribution by authors.
 
 
 ## 2020
@@ -116,5 +116,3 @@ doi: [10.1136/sbmj.i2728](https://doi.org/10.1136/sbmj.i2728)
 DNA hairpins destabilize duplexes primarily by promoting melting rather than by inhibiting hybridization  
 J. Schreck, T. Ouldridge, F. Romano, P. Sulc, **L. P. Shaw**, A. Louis, J. Doye. *Nucleic Acids Research* 43(13):6181  
 doi: [10.1093/nar/gkv582](https://doi.org/10.1093/nar/gkv582)
-
-<font size="1">⁺ denotes equal contribution by authors. This might seem weird if you haven't seen it before, but it's fairly common in biology papers (and increasingly so). If you want to procrastinate, you can read about how determining the order of academic authorship is <a href="https://en.wikipedia.org/wiki/Academic_authorship#Order_of_authors_in_a_list">highly discipline-specific</a>. </font>
