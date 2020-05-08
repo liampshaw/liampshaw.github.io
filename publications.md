@@ -14,8 +14,8 @@ The phylogenetic range of bacterial and viral pathogens of vertebrates
 preprint doi: [10.1101/670315](https://doi.org/10.1101/670315)
 
 Emergence of genomic diversity and recurrent mutations in SARS-CoV-2  
-L. van Dorp, M. Acman⁺, D. Richard⁺, **L. P. Shaw**⁺, C. E. Ford, L. Ormond, C. J. Owen, J. Pang, C. CS. Tan, F. AT. Boshier, A. Torres Ortiz, F. Balloux *Infection, Genetics and Evolution* (in press)  
-doi: (in press)
+L. van Dorp, M. Acman⁺, D. Richard⁺, **L. P. Shaw**⁺, C. E. Ford, L. Ormond, C. J. Owen, J. Pang, C. CS. Tan, F. AT. Boshier, A. Torres Ortiz, F. Balloux *Infection, Genetics and Evolution* 104351  
+doi: [10.1016/j.meegid.2020.104351](https://doi.org/10.1016/j.meegid.2020.104351)
 
 STROBE-Metagenomics: A STROBE/STROME-ID extension statement to guide the reporting of studies applying metagenomics  
 T. Bharucha, C. Oeser, [alphabetical: 23 authors inc. **L. P. Shaw**], J. Breuer, N. Field *Lancet Infectious Diseases* (in press)   
