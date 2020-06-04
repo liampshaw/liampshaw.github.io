@@ -9,7 +9,7 @@ I attempt to keep this list up-to-date (last updated: 4<sup>th</sup> June 2020).
 ## Preprints and forthcoming
 
 No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2  
-L. van Dorp⁺, D. Richard⁺,  C. CS. Tan, **L. P.** Shaw, M. Acman, F. Balloux  
+L. van Dorp⁺, D. Richard⁺,  C. CS. Tan, **L. P. Shaw**, M. Acman, F. Balloux  
 preprint: [10.1101/2020.05.21.108506v1](https://doi.org/10.1101/2020.05.21.108506v1)
 
 STROBE-Metagenomics: A STROBE/STROME-ID extension statement to guide the reporting of studies applying metagenomics  
