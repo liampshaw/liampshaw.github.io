@@ -15,9 +15,8 @@ doi: (in press)
 ## 2020
 
 The phylogenetic range of bacterial and viral pathogens of vertebrates  
-**L. P. Shaw**⁺, A. Wang⁺, et al. *Molecular Ecology* (in press)   
+**L. P. Shaw**⁺, A. Wang⁺, et al. *Molecular Ecology* (in press) 
 doi: [10.1111/mec.15463](https://doi.org/10.1111/mec.15463)   
-preprint doi: [10.1101/670315](https://doi.org/10.1101/670315)
 
 Emergence of genomic diversity and recurrent mutations in SARS-CoV-2  
 L. van Dorp, M. Acman⁺, D. Richard⁺, **L. P. Shaw**⁺, C. E. Ford, L. Ormond, C. J. Owen, J. Pang, C. CS. Tan, F. AT. Boshier, A. Torres Ortiz, F. Balloux *Infection, Genetics and Evolution* 104351  
