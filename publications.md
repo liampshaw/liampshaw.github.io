@@ -4,9 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this list up-to-date (last updated: 12<sup>th</sup> May 2020). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). ⁺ denotes equal contribution by authors.
+I attempt to keep this list up-to-date (last updated: 4<sup>th</sup> June 2020). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). ⁺ denotes equal contribution by authors.
 
 ## Preprints and forthcoming
+
+No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2  
+L. van Dorp⁺, D. Richard⁺,  C. CS. Tan, **L. P.** Shaw, M. Acman, F. Balloux  
+preprint: [10.1101/2020.05.21.108506v1](https://doi.org/10.1101/2020.05.21.108506v1)
 
 STROBE-Metagenomics: A STROBE/STROME-ID extension statement to guide the reporting of studies applying metagenomics  
 T. Bharucha, C. Oeser, [alphabetical: 23 authors inc. **L. P. Shaw**], J. Breuer, N. Field *Lancet Infectious Diseases* (in press)   
