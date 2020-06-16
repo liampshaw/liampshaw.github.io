@@ -8,7 +8,7 @@ I attempt to keep this list up-to-date (last updated: 4<sup>th</sup> June 2020).
 
 ## Preprints and forthcoming
 
-Hospital outbreak of carbapenem-resistant Enterobacteriales associated with an OXA-48 plasmid carried mostly by Escherichia coli ST399  
+Hospital outbreak of carbapenem-resistant Enterobacterales associated with an OXA-48 plasmid carried mostly by *Escherichia coli* ST399  
 A. Ledda, M. Cummins, **L. P. Shaw**, E. Jauneikaite, K. Cole, F. Lasalle, D. Barry, C. Rosmarin, S. Anaraki, D. Wareham,  N. Stoesser, J. Paul, R. Manuel, B. Cherian,  X. Didelot *biorxiv* (2020)  
 preprint: [10.1101/2020.06.15.148189](https://doi.org/10.1101/2020.06.15.148189)
 
