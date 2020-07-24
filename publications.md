@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this list up-to-date (last updated: 4<sup>th</sup> June 2020). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). ⁺ denotes equal contribution by authors.
+I attempt to keep this list up-to-date (last updated: 24<sup>th</sup> July 2020). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). ⁺ denotes equal contribution by authors.
 
 ## Preprints and forthcoming
 
