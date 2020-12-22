@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I'm a computational biologist. My [research](http://liampshaw.github.io/research/) focuses on analysing and modelling bacterial communities. I'm particularly interested in the genetics of antimicrobial resistance (AMR). From January 2021 I will be based in the Department of Zoology, University of Oxford. 
+I'm a computational biologist. My [research](http://liampshaw.github.io/research/) focuses on analysing and modelling bacterial communities. I'm particularly interested in the genetics of antimicrobial resistance (AMR). 
 
 ### Brief CV
 
-**August 2018 — August 2020** Postdoctoral scientist, Modernising Medical Microbiology, Oxford
+**2021 — ** Sir Henry Wellcome postdoctoral fellow, Department of Zoology, Oxford 
+
+**2018 —  2020** Postdoctoral scientist, Modernising Medical Microbiology, Oxford
 
 **2014 — 2018** PhD in Computational Biology, UCL
 
