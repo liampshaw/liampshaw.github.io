@@ -8,7 +8,7 @@ I'm a computational biologist. My [research](http://liampshaw.github.io/research
 
 ### Brief CV
 
-**2021 — ** Sir Henry Wellcome postdoctoral fellow, Department of Zoology, Oxford 
+**Jan 2021** Sir Henry Wellcome postdoctoral fellow, Department of Zoology, Oxford 
 
 **2018 —  2020** Postdoctoral scientist, Modernising Medical Microbiology, Oxford
 
