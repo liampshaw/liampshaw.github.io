@@ -26,14 +26,14 @@ preprint: [10.1101/2020.06.15.148189](https://doi.org/10.1101/2020.06.15.148189)
 No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2  
 L. van Dorp⁺, D. Richard⁺,  C. CS. Tan, **L. P. Shaw**, M. Acman, F. Balloux *Nature Communications* (2020)  
 doi: [10.1038/s41467-020-19818-2](https://doi.org/10.1038/s41467-020-19818-2)   
-preprint: [10.1101/2020.05.21.108506v1](https://doi.org/10.1101/2020.05.21.108506v1)
+preprint: [10.1101/2020.05.21.108506v5](https://www.biorxiv.org/content/10.1101/2020.05.21.108506v5)
 
 STROBE-Metagenomics: A STROBE/STROME-ID extension statement to guide the reporting of studies applying metagenomics  
-T. Bharucha, C. Oeser, [alphabetical: 23 authors inc. **L. P. Shaw**], J. Breuer, N. Field *Lancet Infectious Diseases* (2020)   
+T. Bharucha, C. Oeser, [alphabetical: 23 authors inc. **L. P. Shaw**], J. Breuer, N. Field *Lancet Infectious Diseases* 20:e251–60
 doi: [10.1016/S1473-3099(20)30199-7](https://doi.org/10.1016/S1473-3099(20)30199-7)
 
 The phylogenetic range of bacterial and viral pathogens of vertebrates  
-**L. P. Shaw**⁺, A. Wang⁺, et al. *Molecular Ecology* (in press)  
+**L. P. Shaw**⁺, A. Wang⁺, et al. *Molecular Ecology* 29:3361–3379   
 doi: [10.1111/mec.15463](https://doi.org/10.1111/mec.15463)   
 
 Emergence of genomic diversity and recurrent mutations in SARS-CoV-2  
@@ -58,9 +58,9 @@ Comparison of long-read sequencing technologies in the hybrid assembly of comple
 N. De Maio⁺, **L. P. Shaw**⁺ et al. on behalf of the [REHAB consortium](http://modmedmicro.nsms.ox.ac.uk/rehab/). *Microbial Genomics* 5(9)  
 doi: [10.1099/mgen.0.000294](https://doi.org/10.1099/mgen.0.000294)
 
-Representing antibiotic relationships using measurements of efficacy against clinical isolates [version 2; peer review: 1 approved]  
+Representing antibiotic relationships using measurements of efficacy against clinical isolates [version 3; peer review: 2 approved]  
 **L. P. Shaw**. *Wellcome Open Research* 4:86  
-doi: [10.12688/wellcomeopenres.15304.2](https://doi.org/10.12688/wellcomeopenres.15304.2)
+doi: [10.12688/wellcomeopenres.15304.3](https://doi.org/10.12688/wellcomeopenres.15304.3)
 
 Whole genome sequencing *Mycobacterium tuberculosis* directly from sputum identifies more genetic diversity than sequencing from culture  
 C. Nimmo, **L. P. Shaw**, et al. *BMC Genomics* 20:389  
