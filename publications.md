@@ -12,19 +12,25 @@ Niche and local geography shape the pangenome of wastewater- and livestock-assoc
 **L. P. Shaw** et al. on behalf of the [REHAB consortium](http://modmedmicro.nsms.ox.ac.uk/rehab/) *biorxiv* (2020)  
 preprint: [10.1101/2020.07.23.215756](https://www.biorxiv.org/content/10.1101/2020.07.23.215756v1)
 
+Genomic network analysis of an environmental and livestock IncF plasmid population  
+W. Matlock, ..., A. S. Walker⁺, N. Stoesser⁺, **L. P. Shaw**⁺ on behalf of the [REHAB consortium](http://modmedmicro.nsms.ox.ac.uk/rehab/) *biorxiv* (2020)  
+preprint: [10.1101/2020.07.24.215889](https://doi.org/10.1101/2020.07.24.215889)
+
 Hospital outbreak of carbapenem-resistant Enterobacterales associated with an OXA-48 plasmid carried mostly by *Escherichia coli* ST399  
 A. Ledda, M. Cummins, **L. P. Shaw**, E. Jauneikaite, K. Cole, F. Lasalle, D. Barry, C. Rosmarin, S. Anaraki, D. Wareham,  N. Stoesser, J. Paul, R. Manuel, B. Cherian,  X. Didelot *biorxiv* (2020)  
 preprint: [10.1101/2020.06.15.148189](https://doi.org/10.1101/2020.06.15.148189)
 
+
+## 2020
+
 No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2  
-L. van Dorp⁺, D. Richard⁺,  C. CS. Tan, **L. P. Shaw**, M. Acman, F. Balloux *biorxiv* (2020)   
+L. van Dorp⁺, D. Richard⁺,  C. CS. Tan, **L. P. Shaw**, M. Acman, F. Balloux *Nature Communications* (2020)  
+doi: [10.1038/s41467-020-19818-2](https://doi.org/10.1038/s41467-020-19818-2)   
 preprint: [10.1101/2020.05.21.108506v1](https://doi.org/10.1101/2020.05.21.108506v1)
 
 STROBE-Metagenomics: A STROBE/STROME-ID extension statement to guide the reporting of studies applying metagenomics  
-T. Bharucha, C. Oeser, [alphabetical: 23 authors inc. **L. P. Shaw**], J. Breuer, N. Field *Lancet Infectious Diseases* (in press)   
-doi: (in press)
-
-## 2020
+T. Bharucha, C. Oeser, [alphabetical: 23 authors inc. **L. P. Shaw**], J. Breuer, N. Field *Lancet Infectious Diseases* (2020)   
+doi: [10.1016/S1473-3099(20)30199-7](https://doi.org/10.1016/S1473-3099(20)30199-7)
 
 The phylogenetic range of bacterial and viral pathogens of vertebrates  
 **L. P. Shaw**⁺, A. Wang⁺, et al. *Molecular Ecology* (in press)  
