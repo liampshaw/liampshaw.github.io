@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this list up-to-date (last updated: 24<sup>th</sup> July 2020). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). ⁺ denotes equal contribution by authors.
+I attempt to keep this list up-to-date (last updated: 12<sup>th</sup> January 2021). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). ⁺ denotes equal contribution by authors.
 
 ## Preprints and forthcoming
 
@@ -24,7 +24,7 @@ preprint: [10.1101/2020.06.15.148189](https://doi.org/10.1101/2020.06.15.148189)
 ## 2020
 
 No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2  
-L. van Dorp⁺, D. Richard⁺,  C. CS. Tan, **L. P. Shaw**, M. Acman, F. Balloux *Nature Communications* (2020)  
+L. van Dorp⁺, D. Richard⁺,  C. CS. Tan, **L. P. Shaw**, M. Acman, F. Balloux *Nature Communications*   
 doi: [10.1038/s41467-020-19818-2](https://doi.org/10.1038/s41467-020-19818-2)   
 preprint: [10.1101/2020.05.21.108506v5](https://www.biorxiv.org/content/10.1101/2020.05.21.108506v5)
 
