@@ -8,6 +8,11 @@ I attempt to keep this list up-to-date (last updated: 12<sup>th</sup> January 20
 
 ## Preprints and forthcoming
 
+Role of the mobilome in the global dissemination of the carbapenem resistance gene *bla*NDM  
+M. Acman, R. Wang, L. van Dorp,  **L. P. Shaw**, Q. Wang, N. Luhmann, Y. Yin, S. Sun, H. Chen, H. Wang, H. Balloux  *biorxiv* (2020)  
+preprint: [10.1101/2021.01.14.426698](https://doi.org/10.1101/2021.01.14.426698)  
+
+
 Niche and local geography shape the pangenome of wastewater- and livestock-associated Enterobacteriaceae  
 **L. P. Shaw** et al. on behalf of the [REHAB consortium](http://modmedmicro.nsms.ox.ac.uk/rehab/) *biorxiv* (2020)  
 preprint: [10.1101/2020.07.23.215756](https://www.biorxiv.org/content/10.1101/2020.07.23.215756v1)
