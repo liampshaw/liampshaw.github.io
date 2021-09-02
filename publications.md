@@ -10,11 +10,11 @@ I attempt to keep this list up-to-date (last updated: 2<sup>nd</sup> September 2
 
 A phylogeny-based metric for estimating changes in transmissibility from recurrent mutations in SARS-CoV-2  
 D. Richard, **L. P Shaw**, R. Lanfear, M. Acman, C. Owen, C. C. S. Tan, L. van Dorp, F. Balloux  *biorxiv* (2021)  
-preprint: 10.1101/2021.05.06.442903](https://doi.org/10.1101/2021.05.06.442903)
+preprint: [10.1101/2021.05.06.442903](https://doi.org/10.1101/2021.05.06.442903)
 
 
 Role of the mobilome in the global dissemination of the carbapenem resistance gene *bla*NDM  
-M. Acman, R. Wang, L. van Dorp,  **L. P. Shaw**, Q. Wang, N. Luhmann, Y. Yin, S. Sun, H. Chen, H. Wang, H. Balloux  *biorxiv* (2020)  
+M. Acman, R. Wang, L. van Dorp,  **L. P. Shaw**, Q. Wang, N. Luhmann, Y. Yin, S. Sun, H. Chen, H. Wang, F. Balloux  *biorxiv* (2020)  
 preprint: [10.1101/2021.01.14.426698](https://doi.org/10.1101/2021.01.14.426698)  
 
 
@@ -39,7 +39,7 @@ preprint: [10.1101/2021.02.22.432255](https://doi.org/10.1101/2021.02.22.432255)
 
 ## 2021
 
-Null models for gene enrichment in plasmids 
+Letter: Null models for gene enrichment in plasmids  
 **L. P. Shaw** *PNAS* (2021)  
 doi: [10.1073/pnas.2103665118](https://doi.org/10.1073/pnas.2103665118)
 
