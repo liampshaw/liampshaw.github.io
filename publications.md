@@ -4,9 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this list up-to-date (last updated: 18<sup>th</sup> March 2021). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). The symbol ⁺ denotes equal contribution by authors.
+I attempt to keep this list up-to-date (last updated: 2<sup>nd</sup> September 2021). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). The symbol ⁺ denotes equal contribution by authors.
 
-## Preprints and forthcoming
+## Preprints 
+
+A phylogeny-based metric for estimating changes in transmissibility from recurrent mutations in SARS-CoV-2  
+D. Richard, **L. P Shaw**, R. Lanfear, M. Acman, C. Owen, C. C. S. Tan, L. van Dorp, F. Balloux  *biorxiv* (2021)  
+preprint: 10.1101/2021.05.06.442903](https://doi.org/10.1101/2021.05.06.442903)
+
 
 Role of the mobilome in the global dissemination of the carbapenem resistance gene *bla*NDM  
 M. Acman, R. Wang, L. van Dorp,  **L. P. Shaw**, Q. Wang, N. Luhmann, Y. Yin, S. Sun, H. Chen, H. Wang, H. Balloux  *biorxiv* (2020)  
@@ -18,10 +23,29 @@ A. Ledda, M. Cummins, **L. P. Shaw**, E. Jauneikaite, K. Cole, F. Lasalle, D. Ba
 preprint: [10.1101/2020.06.15.148189](https://doi.org/10.1101/2020.06.15.148189)
 
 
+
+## Forthcoming
+
+A genomic epidemiological study shows prevalence of antimicrobial resistance in Enterobacterales is associated with the livestock host, as well as antimicrobial usage  
+M. AbuOun, H. Jones, E. Stubberfield, D. Gilson, **L. P. Shaw**, A. Hubbard, K. Chau, R. Sebra, T. Peto, D. Crook, D. Read, H. S. Gweon, A. S. Walker, N. Stoesser, R. P. Smith, M. Anjum *Microbial Genomics* (in press)  
+accepted version: [here](https://ora.ox.ac.uk/objects/uuid:a8585f70-22e2-4370-b962-277e0b432aa1)
+
+
+Flanker: a tool for comparative genomics of gene flanking regions  
+W. Matlock⁺, S. Lipworth⁺, B. Constantinides, T. E. A. Peto, A. S. Walker, D. Crook, S. Hopkins, **L. P. Shaw**⁺, N. Stoesser⁺ *Microbial Genomics* (in press)  
+preprint: [10.1101/2021.02.22.432255](https://doi.org/10.1101/2021.02.22.432255)
+
+
+
 ## 2021
 
+Null models for gene enrichment in plasmids 
+**L. P. Shaw** *PNAS* (2021)  
+doi: [10.1073/pnas.2103665118](https://doi.org/10.1073/pnas.2103665118)
+
+
 Niche and local geography shape the pangenome of wastewater- and livestock-associated Enterobacteriaceae  
-**L. P. Shaw** et al. on behalf of the [REHAB consortium](http://modmedmicro.nsms.ox.ac.uk/rehab/) *Science Advances*  (in press)  
+**L. P. Shaw** et al. on behalf of the [REHAB consortium](http://modmedmicro.nsms.ox.ac.uk/rehab/) *Science Advances*  (2021)  
 doi: [10.1126/sciadv.abe3868](https://doi.org/10.1126/sciadv.abe3868)  
 preprint: [10.1101/2020.07.23.215756](https://www.biorxiv.org/content/10.1101/2020.07.23.215756)  
 
@@ -32,6 +56,11 @@ doi: [10.1038/s41396-021-00926-w](https://doi.org/10.1038/s41396-021-00926-w)
 preprint: [10.1101/2020.07.24.215889](https://doi.org/10.1101/2020.07.24.215889)
 
 
+Electronic application to improve management of infections in low-income neonatal units: pilot implementation of the NeoTree beta app in a public sector hospital in Zimbabwe  
+H. Gannon, ... [12 authors inc. L. P. Shaw], F. C. Fitzgerald *BMJ Open Quality* (2021)  
+doi: [10.1136/bmjoq-2020-001043](https://doi.org/10.1136/bmjoq-2020-001043)
+
+
 ## 2020
 
 No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2  
@@ -40,7 +69,7 @@ doi: [10.1038/s41467-020-19818-2](https://doi.org/10.1038/s41467-020-19818-2)
 preprint: [10.1101/2020.05.21.108506v5](https://www.biorxiv.org/content/10.1101/2020.05.21.108506)
 
 STROBE-Metagenomics: A STROBE/STROME-ID extension statement to guide the reporting of studies applying metagenomics  
-T. Bharucha, C. Oeser, [alphabetical: 23 authors inc. **L. P. Shaw**], J. Breuer, N. Field *Lancet Infectious Diseases* 20:e251–60  
+T. Bharucha, C. Oeser, [alphabetical: 23 authors inc. L. P. Shaw], J. Breuer, N. Field *Lancet Infectious Diseases* 20:e251–60  
 doi: [10.1016/S1473-3099(20)30199-7](https://doi.org/10.1016/S1473-3099(20)30199-7)
 
 The phylogenetic range of bacterial and viral pathogens of vertebrates  
@@ -53,7 +82,7 @@ L. van Dorp, M. Acman⁺, D. Richard⁺, **L. P. Shaw**⁺, C. E. Ford, L. Ormon
 doi: [10.1016/j.meegid.2020.104351](https://doi.org/10.1016/j.meegid.2020.104351)
 
 Discordant bioinformatic predictions of antimicrobial resistance from whole-genome sequencing data of bacterial isolates: an inter-laboratory study  
-R. M. Doyle, D. M. O'Sullivan, [alphabetical: 16 authors inc. **L. P. Shaw**] et al. *Microbial Genomics* 6(2)   
+R. M. Doyle, D. M. O'Sullivan, [alphabetical: 16 authors inc. L. P. Shaw] et al. *Microbial Genomics* 6(2)   
 doi: [10.1099/mgen.0.000335](https://doi.org/10.1099/mgen.0.000335)  
 preprint: [10.1101/793885v2](https://doi.org/10.1101/793885)  
 
