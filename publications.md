@@ -23,7 +23,7 @@ preprint: [10.1101/2021.01.14.426698](https://doi.org/10.1101/2021.01.14.426698)
 
 
 Hospital outbreak of carbapenem-resistant Enterobacterales associated with an OXA-48 plasmid carried mostly by *Escherichia coli* ST399  
-A. Ledda, M. Cummins, **L. P. Shaw**, E. Jauneikaite, K. Cole, F. Lasalle, D. Barry, C. Rosmarin, S. Anaraki, D. Wareham,  N. Stoesser, J. Paul, R. Manuel, B. Cherian,  X. Didelot *Microbial Genomics* (2020)  
+A. Ledda, M. Cummins, **L. P. Shaw**, E. Jauneikaite, K. Cole, F. Lasalle, D. Barry, C. Rosmarin, S. Anaraki, D. Wareham,  N. Stoesser, J. Paul, R. Manuel, B. Cherian,  X. Didelot *Microbial Genomics* (in press)  
 preprint: [10.1101/2020.06.15.148189](https://doi.org/10.1101/2020.06.15.148189)
 
 
