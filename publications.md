@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this list up-to-date (last updated: 2<sup>nd</sup> September 2021). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). The symbol ⁺ denotes equal contribution by authors.
+I attempt to keep this list up-to-date (last updated: 4<sup>th</sup> October 2021). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). The symbol ⁺ denotes equal contribution by authors.
 
 ## Preprints 
 
@@ -37,6 +37,9 @@ Flanker: a tool for comparative genomics of gene flanking regions
 W. Matlock⁺, S. Lipworth⁺, B. Constantinides, T. E. A. Peto, A. S. Walker, D. Crook, S. Hopkins, **L. P. Shaw**⁺, N. Stoesser⁺ *Microbial Genomics* (in press)  
 preprint: [10.1101/2021.02.22.432255](https://doi.org/10.1101/2021.02.22.432255)
 
+
+Drivers of methicillin resistant *Staphylococcus aureus* (MRSA) lineage replacement in China  
+H. Chen, Y. Yin, L. van Dorp, **L. P. Shaw**, H. Gao, M. Acman, J. Yuan F. Chen, S. Sun, X. Wang, S. Li, Y. Zhang, R. A. Farrer, H. Wang, F. Balloux *Genome Medicine* (in press)  
 
 
 ## 2021
