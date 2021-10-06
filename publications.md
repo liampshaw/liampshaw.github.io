@@ -39,7 +39,7 @@ preprint: [10.1101/2021.02.22.432255](https://doi.org/10.1101/2021.02.22.432255)
 
 
 Drivers of methicillin resistant *Staphylococcus aureus* (MRSA) lineage replacement in China  
-H. Chen, Y. Yin, L. van Dorp, **L. P. Shaw**, H. Gao, M. Acman, J. Yuan F. Chen, S. Sun, X. Wang, S. Li, Y. Zhang, R. A. Farrer, H. Wang, F. Balloux *Genome Medicine* (in press)  
+H. Chen⁺, Y. Yin⁺, L. van Dorp, **L. P. Shaw**, H. Gao, M. Acman, J. Yuan F. Chen, S. Sun, X. Wang, S. Li, Y. Zhang, R. A. Farrer, H. Wang, F. Balloux *Genome Medicine* (in press)  
 
 
 ## 2021
