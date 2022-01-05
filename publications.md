@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this list up-to-date (last updated: 4<sup>th</sup> October 2021). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). The symbol ⁺ denotes equal contribution by authors.
+I attempt to keep this list up-to-date (last updated: 5<sup>th</sup> January 2022). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). The symbol ⁺ denotes equal contribution by authors.
 
 ## Preprints 
 
@@ -28,21 +28,24 @@ preprint: [10.1101/2020.06.15.148189](https://doi.org/10.1101/2020.06.15.148189)
 
 
 
+## 2021
+
 A genomic epidemiological study shows prevalence of antimicrobial resistance in Enterobacterales is associated with the livestock host, as well as antimicrobial usage  
 M. AbuOun, H. Jones, E. Stubberfield, D. Gilson, **L. P. Shaw**, A. Hubbard, K. Chau, R. Sebra, T. Peto, D. Crook, D. Read, H. S. Gweon, A. S. Walker, N. Stoesser, R. P. Smith, M. Anjum *Microbial Genomics* (in press)  
+doi: [10.1099/mgen.0.000630](https://doi.org/10.1099/mgen.0.000630)  
 accepted version: [here](https://ora.ox.ac.uk/objects/uuid:a8585f70-22e2-4370-b962-277e0b432aa1)
 
 
 Flanker: a tool for comparative genomics of gene flanking regions  
-W. Matlock⁺, S. Lipworth⁺, B. Constantinides, T. E. A. Peto, A. S. Walker, D. Crook, S. Hopkins, **L. P. Shaw**⁺, N. Stoesser⁺ *Microbial Genomics* (in press)  
+W. Matlock⁺, S. Lipworth⁺, B. Constantinides, T. E. A. Peto, A. S. Walker, D. Crook, S. Hopkins, **L. P. Shaw**⁺, N. Stoesser⁺ *Microbial Genomics* (2021)  
+doi: [10.1099/mgen.0.000634](https://doi.org/10.1099/mgen.0.000634)  
 preprint: [10.1101/2021.02.22.432255](https://doi.org/10.1101/2021.02.22.432255)
 
 
 Drivers of methicillin resistant *Staphylococcus aureus* (MRSA) lineage replacement in China  
-H. Chen⁺, Y. Yin⁺, L. van Dorp, **L. P. Shaw**, H. Gao, M. Acman, J. Yuan F. Chen, S. Sun, X. Wang, S. Li, Y. Zhang, R. A. Farrer, H. Wang, F. Balloux *Genome Medicine* (in press)  
+H. Chen⁺, Y. Yin⁺, L. van Dorp, **L. P. Shaw**, H. Gao, M. Acman, J. Yuan F. Chen, S. Sun, X. Wang, S. Li, Y. Zhang, R. A. Farrer, H. Wang, F. Balloux *Genome Medicine* (2021)
+doi: [10.1186/s13073-021-00992-x](https://doi.org/10.1186/s13073-021-00992-x)  
 
-
-## 2021
 
 Letter: Null models for gene enrichment in plasmids  
 **L. P. Shaw** *PNAS* (2021)  
