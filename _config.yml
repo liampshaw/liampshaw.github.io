@@ -18,15 +18,15 @@ avatar: https://avatars1.githubusercontent.com/u/6445761?v=2&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: liam.philip.shaw@gmail.com
-  facebook: 
+  email:
+  facebook:
   flickr:
-  github: liampshaw
+  github:
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: liampshaw
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -78,4 +78,4 @@ exclude:
     - CNAME
 
 # Theme
-theme: jekyll-theme-modernist 
+theme: jekyll-theme-modernist
