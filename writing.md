@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Writing
+title:
 permalink: /writing/
 ---
 
-I sometimes write pieces for the [London Review of Books blog](https://www.lrb.co.uk/blog/author/liam-shaw).
+I sometimes write pieces for the *London Review of Books* [blog](https://www.lrb.co.uk/blog/author/liam-shaw).
 
 I co-write a regular *Science and Society* column in the [Morning Star](https://morningstaronline.co.uk/author/science-and-society).
 
