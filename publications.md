@@ -4,28 +4,36 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this list up-to-date (last updated: 5<sup>th</sup> January 2022). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). The symbol ⁺ denotes equal contribution by authors.
+I attempt to keep this list up-to-date (last updated: 20 April 2022). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles should be open access, but links to preprints are included too where available. 
+
 
 ## Preprints 
+
+The mobilome associated with Gram-negative bloodstream infections: A large-scale observational hybrid sequencing based study  
+S. Lipworth<sup>+</sup>, W. Matlock<sup>+</sup>, L. P. Shaw, et al. *medrxiv* (2022)  
+preprint: [10.1101/2022.04.03.22273290](https://doi.org/10.1101/2022.04.03.22273290)  
+
+Pre-existing chromosomal polymorphisms in pathogenic *E. coli* potentiate the evolution of antibiotic resistance by *MCR-1* plasmid acquisition  
+P. K. Jangir, Q. Yang, L. P. Shaw et al. *biorxiv* (2022)  
+preprint: [10.1101/2022.02.20.481192](https://doi.org/10.1101/2022.02.20.481192)  
+
 
 A phylogeny-based metric for estimating changes in transmissibility from recurrent mutations in SARS-CoV-2  
 D. Richard, **L. P Shaw**, R. Lanfear, M. Acman, C. Owen, C. C. S. Tan, L. van Dorp, F. Balloux  *biorxiv* (2021)  
 preprint: [10.1101/2021.05.06.442903](https://doi.org/10.1101/2021.05.06.442903)
 
 
-Role of the mobilome in the global dissemination of the carbapenem resistance gene *bla*NDM  
-M. Acman, R. Wang, L. van Dorp,  **L. P. Shaw**, Q. Wang, N. Luhmann, Y. Yin, S. Sun, H. Chen, H. Wang, F. Balloux  *biorxiv* (2020)  
-preprint: [10.1101/2021.01.14.426698](https://doi.org/10.1101/2021.01.14.426698)  
-
-
-
-## Forthcoming
-
-
 Hospital outbreak of carbapenem-resistant Enterobacterales associated with an OXA-48 plasmid carried mostly by *Escherichia coli* ST399  
 A. Ledda, M. Cummins, **L. P. Shaw**, E. Jauneikaite, K. Cole, F. Lasalle, D. Barry, C. Rosmarin, S. Anaraki, D. Wareham,  N. Stoesser, J. Paul, R. Manuel, B. Cherian,  X. Didelot *Microbial Genomics* (in press)  
 preprint: [10.1101/2020.06.15.148189](https://doi.org/10.1101/2020.06.15.148189)
 
+
+## 2022
+
+Role of mobile genetic elements in the global dissemination of the carbapenem resistance gene *bla*NDM  
+M. Acman, R. Wang, L. van Dorp,  **L. P. Shaw**, Q. Wang, N. Luhmann, Y. Yin, S. Sun, H. Chen, H. Wang, F. Balloux  *biorxiv* (2020)  
+doi: [10.1038/s41467-022-28819-2](https://doi.org/10.1038/s41467-022-28819-2)  
+preprint: [10.1101/2021.01.14.426698](https://doi.org/10.1101/2021.01.14.426698)  
 
 
 ## 2021
@@ -37,7 +45,7 @@ accepted version: [here](https://ora.ox.ac.uk/objects/uuid:a8585f70-22e2-4370-b9
 
 
 Flanker: a tool for comparative genomics of gene flanking regions  
-W. Matlock⁺, S. Lipworth⁺, B. Constantinides, T. E. A. Peto, A. S. Walker, D. Crook, S. Hopkins, **L. P. Shaw**⁺, N. Stoesser⁺ *Microbial Genomics* (2021)  
+W. Matlock<sup>+</sup>, S. Lipworth⁺, B. Constantinides, T. E. A. Peto, A. S. Walker, D. Crook, S. Hopkins, **L. P. Shaw**⁺, N. Stoesser⁺ *Microbial Genomics* (2021)  
 doi: [10.1099/mgen.0.000634](https://doi.org/10.1099/mgen.0.000634)  
 preprint: [10.1101/2021.02.22.432255](https://doi.org/10.1101/2021.02.22.432255)
 
