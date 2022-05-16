@@ -4,10 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this list up-to-date (last updated: 21 April 2022). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles should be open access, but links to preprints are included too where available. 
+I attempt to keep this list up-to-date (last updated: 21 April 2022). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles should be open access, but links to preprints are included too where available.
 
 
-## Preprints 
+## Preprints
+
+Plasmid overlap and evolution between Enterobacterales isolates from bloodstream infections and non-human compartments  
+W. Matlock(+), S. Lipworth(+), ..., L. P. Shaw(+), N. Stoesser(+). *biorxiv* (2022)  
+preprint: [10.1101/2022.05.06.490774](https://doi.org/10.1101/2022.05.06.490774)  
 
 The mobilome associated with Gram-negative bloodstream infections: A large-scale observational hybrid sequencing based study  
 S. Lipworth(+), W. Matlock(+), L. P. Shaw, et al. *medrxiv* (2022)  
