@@ -4,10 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this list up-to-date (last updated: 21 April 2022). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles should be open access, but links to preprints are included too where available.
+I attempt to keep this list up-to-date (last updated: 17 May 2022). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles should be open access, but links to preprints are included too where available.
 
 
-## Preprints
+### Preprints
 
 Plasmid overlap and evolution between Enterobacterales isolates from bloodstream infections and non-human compartments  
 W. Matlock(+), S. Lipworth(+), ..., L. P. Shaw(+), N. Stoesser(+). *biorxiv* (2022)  
@@ -27,7 +27,7 @@ D. Richard, **L. P Shaw**, R. Lanfear, M. Acman, C. Owen, C. C. S. Tan, L. van D
 preprint: [10.1101/2021.05.06.442903](https://doi.org/10.1101/2021.05.06.442903)
 
 
-## 2022
+### 2022
 
 Role of mobile genetic elements in the global dissemination of the carbapenem resistance gene *bla*NDM  
 Hospital outbreak of carbapenem-resistant Enterobacterales associated with an OXA-48 plasmid carried mostly by *Escherichia coli* ST399  
@@ -82,7 +82,7 @@ H. Gannon, ... [12 authors inc. L. P. Shaw], F. C. Fitzgerald *BMJ Open Quality*
 doi: [10.1136/bmjoq-2020-001043](https://doi.org/10.1136/bmjoq-2020-001043)
 
 
-## 2020
+### 2020
 
 No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2  
 L. van Dorp(+), D. Richard(+),  C. CS. Tan, **L. P. Shaw**, M. Acman, F. Balloux *Nature Communications*   
@@ -112,7 +112,7 @@ S. J. Bush, D. Foster, D. W. Eyre, E. L. Clark, N. De Maio, **L. P. Shaw** et al
 doi: [10.1093/gigascience/giaa007](https://doi.org/10.1093/gigascience/giaa007)  
 preprint: [10.1101/653774v1](https://doi.org/10.1101/653774)  
 
-## 2019
+### 2019
 
 The impact of sequencing depth on the inferred taxonomic composition and AMR gene content of metagenomic samples  
 H. G. Soon, **L. P. Shaw** et al. on behalf of the [REHAB consortium](http://modmedmicro.nsms.ox.ac.uk/rehab/). *Environmental Microbiome* 14:7  
@@ -148,11 +148,7 @@ Review: The microbiome — the explanation for (almost) everything?
 doi: [10.1097/INF.0000000000002261](https://doi.org/10.1097/INF.0000000000002261)
 
 
-## 2018
-
-Portable sequencing and the scales of genomic data in global EID surveillance  
-**L. P. Shaw**(+) and N. Sugden(+). *Geo* 5(2):e00066   
-doi: [10.1002/geo2.66](https://doi.org/10.1002/geo2.66)
+### 2018
 
 Microbial translocation does not drive immune activation in Ugandan children with HIV  
 F. C. Fitzgerald, E. L'homme, K. Harris, J. Kenny, R. Doyle, C. Kityo, **L. P. Shaw** et al. *Journal of Infectious Diseases* 219(1):89  
@@ -176,7 +172,7 @@ F. Lassalle(+), M. Spagnoletti(+), M. Fumagalli, **L. P. Shaw**, et al. *Molecul
 doi: [10.1111/mec.14435](https://doi.org/10.1111/mec.14435)
 
 
-## 2017
+### 2017
 
  The human salivary microbiome is shaped by shared environment rather than genetics: evidence from a large family of closely related individuals  
  **L. P. Shaw**(+), A. Ribeiro(+), A. Levine, N. Pontikos, F. Balloux, A. Segal, A. Roberts, A. Smith. *mBio* 8:e01237  
@@ -191,7 +187,7 @@ D. Jeffares, C. Jolly, M. Hoti, D. Speed, C. Rallis, **L. P. Shaw**, F. Balloux,
 doi: [10.1038/ncomms14061](https://doi.org/10.1038/ncomms14061)  
 preprint: [10.1101/047266](https://doi.org/10.1101/047266)  
 
-## 2016
+### 2016
 
 Distinguishing the signals of gingivitis and periodontitis in supragingival plaque: a cross-sectional cohort study in Malawi  
 **L. P. Shaw**, U. Harjunmaa, R. Doyle et al. *Applied and Environmental Microbiology* 82:6057  
@@ -201,8 +197,25 @@ Opinion: Claims made in scientific press releases need greater accountability
 **L. P. Shaw**. *BMJ* 2016;353:i2728  
 doi: [10.1136/sbmj.i2728](https://doi.org/10.1136/sbmj.i2728)
 
-## 2015
+### 2015
 
 DNA hairpins destabilize duplexes primarily by promoting melting rather than by inhibiting hybridization  
 J. Schreck, T. Ouldridge, F. Romano, P. Sulc, **L. P. Shaw**, A. Louis, J. Doye. *Nucleic Acids Research* 43(13):6181  
 doi: [10.1093/nar/gkv582](https://doi.org/10.1093/nar/gkv582)
+
+### Other research
+
+I have published a few papers that fall broadly within the history and philosophy of science. 
+
+The logic of planetary combination in Vettius Valens  
+C. Hall, L. P. Shaw. arXiv:2205.07616 (2022) 
+preprint: [pdf](https://arxiv.org/pdf/2205.07616.pdf)  
+
+The flying bomb and the actuary  
+L. P. Shaw, L. F. Shaw. *Significance* 16(5):12-17 (2019)   
+doi: [10.1111/j.1740-9713.2019.01315.x](https://doi.org/10.1111/j.1740-9713.2019.01315.x) 
+
+Portable sequencing and the scales of genomic data in global EID surveillance  
+**L. P. Shaw**(+) and N. Sugden(+). *Geo* 5(2):e00066 (2018)   
+doi: [10.1002/geo2.66](https://doi.org/10.1002/geo2.66) 
+
