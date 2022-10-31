@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this reverse-chronological list up-to-date (last updated: 17 May 2022). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist.
+I attempt to keep this reverse-chronological list up-to-date (last updated: 31 October 2022). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist.
 
 ### 2022
 
@@ -19,17 +19,18 @@ preprint: [10.1101/2022.04.03.22273290](https://doi.org/10.1101/2022.04.03.22273
 
 
 Pre-existing chromosomal polymorphisms in pathogenic *E. coli* potentiate the evolution of antibiotic resistance by *MCR-1* plasmid acquisition  
-P. K. Jangir(+), Q. Yang(+), L. P. Shaw et al. *biorxiv* (2022)  
+P. K. Jangir(+), Q. Yang(+), L. P. Shaw et al. *eLife* (2022)  
+doi: [10.7554/eLife.78834](https://doi.org/10.7554/eLife.78834)  
 preprint: [10.1101/2022.02.20.481192](https://doi.org/10.1101/2022.02.20.481192)  
 
 Role of mobile genetic elements in the global dissemination of the carbapenem resistance gene *bla*NDM  
-M. Acman, R. Wang, L. van Dorp,  **L. P. Shaw**, Q. Wang, N. Luhmann, Y. Yin, S. Sun, H. Chen, H. Wang, F. Balloux  *biorxiv* (2020)  
+M. Acman, R. Wang, L. van Dorp,  **L. P. Shaw**, Q. Wang, N. Luhmann, Y. Yin, S. Sun, H. Chen, H. Wang, F. Balloux  *Nature Communications* (2022)  
 doi: [10.1038/s41467-022-28819-2](https://doi.org/10.1038/s41467-022-28819-2)  
 preprint: [10.1101/2021.01.14.426698](https://doi.org/10.1101/2021.01.14.426698)  
 
 
 Hospital outbreak of carbapenem-resistant Enterobacterales associated with an OXA-48 plasmid carried mostly by *Escherichia coli* ST399  
-A. Ledda, M. Cummins, **L. P. Shaw**, E. Jauneikaite, K. Cole, F. Lasalle, D. Barry, C. Rosmarin, S. Anaraki, D. Wareham,  N. Stoesser, J. Paul, R. Manuel, B. Cherian,  X. Didelot *Microbial Genomics* (in press)  
+A. Ledda, M. Cummins, **L. P. Shaw**, E. Jauneikaite, K. Cole, F. Lasalle, D. Barry, C. Rosmarin, S. Anaraki, D. Wareham,  N. Stoesser, J. Paul, R. Manuel, B. Cherian,  X. Didelot *Microbial Genomics* (2022)  
 doi: [10.1099/mgen.0.000675](https://doi.org/10.1099/mgen.0.000675)
 preprint: [10.1101/2020.06.15.148189](https://doi.org/10.1101/2020.06.15.148189)
 
@@ -37,7 +38,7 @@ preprint: [10.1101/2020.06.15.148189](https://doi.org/10.1101/2020.06.15.148189)
 ## 2021
 
 A genomic epidemiological study shows prevalence of antimicrobial resistance in Enterobacterales is associated with the livestock host, as well as antimicrobial usage  
-M. AbuOun, H. Jones, E. Stubberfield, D. Gilson, **L. P. Shaw**, A. Hubbard, K. Chau, R. Sebra, T. Peto, D. Crook, D. Read, H. S. Gweon, A. S. Walker, N. Stoesser, R. P. Smith, M. Anjum *Microbial Genomics* (in press)  
+M. AbuOun, H. Jones, E. Stubberfield, D. Gilson, **L. P. Shaw**, A. Hubbard, K. Chau, R. Sebra, T. Peto, D. Crook, D. Read, H. S. Gweon, A. S. Walker, N. Stoesser, R. P. Smith, M. Anjum *Microbial Genomics* (2021)  
 doi: [10.1099/mgen.0.000630](https://doi.org/10.1099/mgen.0.000630)  
 accepted version: [here](https://ora.ox.ac.uk/objects/uuid:a8585f70-22e2-4370-b962-277e0b432aa1)
 
