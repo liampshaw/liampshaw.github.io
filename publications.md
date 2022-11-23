@@ -9,22 +9,22 @@ I attempt to keep this reverse-chronological list up-to-date (last updated: 31 O
 ### 2022
 
 Regulatory fine-tuning and horizontal gene transfer stabilize mobile colistin resistance  
-L. Ogunlana, L. P. Shaw, D. Kuar, P. Jangir, T. Walsh, S. Uphoff, C. MacLean. *biorxiv* (2022)  
+L. Ogunlana, **L. P. Shaw**, D. Kuar, P. Jangir, T. Walsh, S. Uphoff, C. MacLean. *biorxiv* (2022)  
 preprint: [10.1101/2022.11.04.515217](https://doi.org/10.1101/2022.11.04.515217)  
 
 
 Plasmid overlap and evolution between Enterobacterales isolates from bloodstream infections and non-human compartments  
-W. Matlock(+), S. Lipworth(+), ..., L. P. Shaw(+), N. Stoesser(+). *biorxiv* (2022)  
+W. Matlock(+), S. Lipworth(+), ..., **L. P. Shaw**(+), N. Stoesser(+). *biorxiv* (2022)  
 preprint: [10.1101/2022.05.06.490774](https://doi.org/10.1101/2022.05.06.490774)  
 
 
 The mobilome associated with Gram-negative bloodstream infections: A large-scale observational hybrid sequencing based study  
-S. Lipworth(+), W. Matlock(+), L. P. Shaw, et al. *medrxiv* (2022)  
+S. Lipworth(+), W. Matlock(+), **L. P. Shaw**, et al. *medrxiv* (2022)  
 preprint: [10.1101/2022.04.03.22273290](https://doi.org/10.1101/2022.04.03.22273290)  
 
 
 Pre-existing chromosomal polymorphisms in pathogenic *E. coli* potentiate the evolution of antibiotic resistance by *MCR-1* plasmid acquisition  
-P. K. Jangir(+), Q. Yang(+), L. P. Shaw et al. *eLife* (2022)  
+P. K. Jangir(+), Q. Yang(+), **L. P. Shaw** et al. *eLife* (2022)  
 doi: [10.7554/eLife.78834](https://doi.org/10.7554/eLife.78834)  
 preprint: [10.1101/2022.02.20.481192](https://doi.org/10.1101/2022.02.20.481192)  
 
