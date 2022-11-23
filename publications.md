@@ -8,6 +8,11 @@ I attempt to keep this reverse-chronological list up-to-date (last updated: 31 O
 
 ### 2022
 
+Regulatory fine-tuning and horizontal gene transfer stabilize mobile colistin resistance  
+L. Ogunlana, L. P. Shaw, D. Kuar, P. Jangir, T. Walsh, S. Uphoff, C. MacLean. *biorxiv* (2022)  
+preprint: [10.1101/2022.11.04.515217](https://doi.org/10.1101/2022.11.04.515217)  
+
+
 Plasmid overlap and evolution between Enterobacterales isolates from bloodstream infections and non-human compartments  
 W. Matlock(+), S. Lipworth(+), ..., L. P. Shaw(+), N. Stoesser(+). *biorxiv* (2022)  
 preprint: [10.1101/2022.05.06.490774](https://doi.org/10.1101/2022.05.06.490774)  
