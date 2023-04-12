@@ -6,7 +6,34 @@ permalink: /publications/
 
 I attempt to keep this reverse-chronological list up-to-date (last updated: 29 November 2022). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist.
 
+### 2023
+
+*Enterobacterales* plasmid sharing amongst human bloodstream infections, livestock, wastewater, and waterway niches in Oxfordshire, UK  
+W. Matlock(+), S. Lipworth(+), ..., **L. P. Shaw**(+), N. Stoesser(+). *eLife* 85302 (2023)  
+doi: [10.7554/eLife.85302](https://doi.org/10.7554/eLife.85302)  
+preprint: [10.1101/2022.05.06.490774](https://doi.org/10.1101/2022.05.06.490774)
+
+
+The evolution of colistin resistance increases bacterial resistance to host antimicrobial peptides and virulence  
+P.K. Jangir1, L. Ogunlana, P. Szili, M. Czikkely, **L.P. Shaw**, E.J. Stevens, Y. Yang, Q. Yang, Y. Wang, C. Pál, T. R. Walsh, R.C. MacLean, *eLife* (2023)  
+
+
+A longitudinal study reveals persistence of antimicrobial resistance on livestock farms is not due to antimicrobial usage alone  
+R.P, Smith, H.E. May, M. AbuOun, E. Stubberfield, D. Gilson, K.K. Chau, D.W. Crook, L.P. Shaw, D.S. Read, N. Stoesser, M. Jose Vilar, M.F. Anjum  *Frontiers in Microbiology* (2023)  
+doi: [10.3389/fmicb.2023.1070340](https://doi.org/10.3389/fmicb.2023.1070340)  
+
+
+
 ### 2022
+
+Restriction-modification systems have shaped the evolution and distribution of plasmids across bacteria  
+**L. P. Shaw**, E. P. C. Rocha, R. C. MacLean. *biorxiv* (2022)  
+
+
+PanGraph: scalable bacterial pan-genome graph construction  
+N. Noll, M. Molari, **L. P. Shaw**, R. A. Neher. *biorxiv* (2022)  
+preprint: [10.1101/2022.02.24.481757](https://doi.org/10.1101/2022.02.24.481757)  
+
 
 Gut to lung translocation and antibiotic mediated selection shape the dynamics of *Pseudomonas aeruginosa* in an ICU patient  
 R. M. Wheatley, J. D. Caballero, T. E. van der Schalk, F.H.R. De Winter, **L. P Shaw**, N. Kapel, C. Recanatini, L. Timbermont, J. Kluytmans, M. Esser, A. Lacoma, C. Prat-Aymerich, A. Oliver, S. Kumar-Singh, S. Malhotra-Kumar, R. C. MacLean. *Nature Communications* (2022)  
@@ -16,11 +43,6 @@ doi: [10.1038/s41467-022-34101-2](https://doi.org/10.1038/s41467-022-34101-2)
 Regulatory fine-tuning and horizontal gene transfer stabilize mobile colistin resistance  
 L. Ogunlana, **L. P. Shaw**, D. Kuar, P. Jangir, T. Walsh, S. Uphoff, C. MacLean. *biorxiv* (2022)  
 preprint: [10.1101/2022.11.04.515217](https://doi.org/10.1101/2022.11.04.515217)  
-
-
-Plasmid overlap and evolution between Enterobacterales isolates from bloodstream infections and non-human compartments  
-W. Matlock(+), S. Lipworth(+), ..., **L. P. Shaw**(+), N. Stoesser(+). *biorxiv* (2022)  
-preprint: [10.1101/2022.05.06.490774](https://doi.org/10.1101/2022.05.06.490774)  
 
 
 The mobilome associated with Gram-negative bloodstream infections: A large-scale observational hybrid sequencing based study  
