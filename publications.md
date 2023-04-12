@@ -239,7 +239,7 @@ doi: [10.1093/nar/gkv582](https://doi.org/10.1093/nar/gkv582)
 I have published some papers that fall broadly within the history and philosophy of science. 
 
 The logic of planetary combination in Vettius Valens  
-C. Hall, L. P. Shaw. *ISAW Papers* (2022) 
+C. Hall, L. P. Shaw. *ISAW Papers* (2023) 
 url: [here](https://hdl.handle.net/2333.1/m0cfz267)
 preprint: [pdf](https://arxiv.org/pdf/2205.07616.pdf)  
 
