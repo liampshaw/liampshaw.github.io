@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this reverse-chronological list up-to-date (last updated: 29 November 2022). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist.
+I attempt to keep this reverse-chronological list up-to-date (last updated: 12 April 2023). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist.
 
 ### 2023
 
