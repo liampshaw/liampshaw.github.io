@@ -16,6 +16,7 @@ preprint: [10.1101/2022.05.06.490774](https://doi.org/10.1101/2022.05.06.490774)
 
 The evolution of colistin resistance increases bacterial resistance to host antimicrobial peptides and virulence  
 P.K. Jangir1, L. Ogunlana, P. Szili, M. Czikkely, **L.P. Shaw**, E.J. Stevens, Y. Yang, Q. Yang, Y. Wang, C. Pál, T. R. Walsh, R.C. MacLean, *eLife* (2023)  
+doi: [10.7554/eLife.84395](https://doi.org/10.7554/eLife.84395)  
 
 
 A longitudinal study reveals persistence of antimicrobial resistance on livestock farms is not due to antimicrobial usage alone  
