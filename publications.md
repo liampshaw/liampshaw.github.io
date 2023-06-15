@@ -4,9 +4,20 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this reverse-chronological list up-to-date (last updated: 12 April 2023). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist.
+I attempt to keep this reverse-chronological list up-to-date (last updated: 15 June 2023). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist.
 
 ### 2023
+
+Restriction-modification systems have shaped the evolution and distribution of plasmids across bacteria  
+**L. P. Shaw**, E. P. C. Rocha, R. C. MacLean. *Nucleic Acids Research* (2023)  
+doi: [10.1093/nar/gkad452](https://doi.org/10.1093/nar/gkad452)  
+preprint: [10.1101/2022.12.15.520556](https://doi.org/10.1101/2022.12.15.520556)  
+
+
+PanGraph: scalable bacterial pan-genome graph construction  
+N. Noll, M. Molari, **L. P. Shaw**, R. A. Neher. *Microbial Genomics* (2023)
+doi: [10.1099/mgen.0.001034](https:/doi.org/10.1099/mgen.0.001034)  
+preprint: [10.1101/2022.02.24.481757](https://doi.org/10.1101/2022.02.24.481757)  
 
 *Enterobacterales* plasmid sharing amongst human bloodstream infections, livestock, wastewater, and waterway niches in Oxfordshire, UK  
 W. Matlock(+), S. Lipworth(+), ..., **L. P. Shaw**(+), N. Stoesser(+). *eLife* 85302 (2023)  
@@ -26,15 +37,6 @@ doi: [10.3389/fmicb.2023.1070340](https://doi.org/10.3389/fmicb.2023.1070340)
 
 
 ### 2022
-
-Restriction-modification systems have shaped the evolution and distribution of plasmids across bacteria  
-**L. P. Shaw**, E. P. C. Rocha, R. C. MacLean. *biorxiv* (2022)  
-
-
-PanGraph: scalable bacterial pan-genome graph construction  
-N. Noll, M. Molari, **L. P. Shaw**, R. A. Neher. *biorxiv* (2022)  
-preprint: [10.1101/2022.02.24.481757](https://doi.org/10.1101/2022.02.24.481757)  
-
 
 Gut to lung translocation and antibiotic mediated selection shape the dynamics of *Pseudomonas aeruginosa* in an ICU patient  
 R. M. Wheatley, J. D. Caballero, T. E. van der Schalk, F.H.R. De Winter, **L. P Shaw**, N. Kapel, C. Recanatini, L. Timbermont, J. Kluytmans, M. Esser, A. Lacoma, C. Prat-Aymerich, A. Oliver, S. Kumar-Singh, S. Malhotra-Kumar, R. C. MacLean. *Nature Communications* (2022)  
