@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this reverse-chronological list up-to-date (last updated: 15 June 2023). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist.
+I attempt to keep this reverse-chronological list up-to-date (last updated: 19 June 2023). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist. (+) denotes equal contribution (joint-first or joint-last authorship). 
 
 ### 2023
 
@@ -15,7 +15,7 @@ preprint: [10.1101/2022.12.15.520556](https://doi.org/10.1101/2022.12.15.520556)
 
 
 PanGraph: scalable bacterial pan-genome graph construction  
-N. Noll, M. Molari, **L. P. Shaw**, R. A. Neher. *Microbial Genomics* (2023)
+N. Noll(+), M. Molari(+), **L. P. Shaw**, R. A. Neher. *Microbial Genomics* (2023)
 doi: [10.1099/mgen.0.001034](https:/doi.org/10.1099/mgen.0.001034)  
 preprint: [10.1101/2022.02.24.481757](https://doi.org/10.1101/2022.02.24.481757)  
 
@@ -26,12 +26,12 @@ preprint: [10.1101/2022.05.06.490774](https://doi.org/10.1101/2022.05.06.490774)
 
 
 The evolution of colistin resistance increases bacterial resistance to host antimicrobial peptides and virulence  
-P.K. Jangir1, L. Ogunlana, P. Szili, M. Czikkely, **L.P. Shaw**, E.J. Stevens, Y. Yang, Q. Yang, Y. Wang, C. Pál, T. R. Walsh, R.C. MacLean, *eLife* (2023)  
+P.K. Jangir, L. Ogunlana, P. Szili, M. Czikkely, **L.P. Shaw**, E.J. Stevens, Y. Yang, Q. Yang, Y. Wang, C. Pál, T. R. Walsh, R.C. MacLean, *eLife* (2023)  
 doi: [10.7554/eLife.84395](https://doi.org/10.7554/eLife.84395)  
 
 
 A longitudinal study reveals persistence of antimicrobial resistance on livestock farms is not due to antimicrobial usage alone  
-R.P, Smith, H.E. May, M. AbuOun, E. Stubberfield, D. Gilson, K.K. Chau, D.W. Crook, L.P. Shaw, D.S. Read, N. Stoesser, M. Jose Vilar, M.F. Anjum  *Frontiers in Microbiology* (2023)  
+R.P, Smith, H.E. May, M. AbuOun, E. Stubberfield, D. Gilson, K.K. Chau, D.W. Crook, **L.P. Shaw**, D.S. Read, N. Stoesser, M. Jose Vilar, M.F. Anjum  *Frontiers in Microbiology* (2023)  
 doi: [10.3389/fmicb.2023.1070340](https://doi.org/10.3389/fmicb.2023.1070340)  
 
 
@@ -239,17 +239,18 @@ doi: [10.1093/nar/gkv582](https://doi.org/10.1093/nar/gkv582)
 
 ### Other research
 
-I have published some papers that fall broadly within the history and philosophy of science. 
+I have also published a few papers that fall broadly within the history and philosophy of science. 
 
 The logic of planetary combination in Vettius Valens  
-C. Hall, L. P. Shaw. *ISAW Papers* (2023) 
+C. Hall, **L. P. Shaw**. *ISAW Papers* (2023) 
 url: [here](https://hdl.handle.net/2333.1/m0cfz267)
 preprint: [pdf](https://arxiv.org/pdf/2205.07616.pdf)  
 
 
 The flying bomb and the actuary  
-L. P. Shaw, L. F. Shaw. *Significance* 16(5):12-17 (2019)   
+**L. P. Shaw**, L. F. Shaw. *Significance* 16(5):12-17 (2019)   
 doi: [10.1111/j.1740-9713.2019.01315.x](https://doi.org/10.1111/j.1740-9713.2019.01315.x) 
+
 
 Portable sequencing and the scales of genomic data in global EID surveillance  
 **L. P. Shaw**(+) and N. Sugden(+). *Geo* 5(2):e00066 (2018)   
