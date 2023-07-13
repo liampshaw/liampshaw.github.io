@@ -4,9 +4,18 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this reverse-chronological list up-to-date (last updated: 19 June 2023). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist. (+) denotes equal contribution (joint-first or joint-last authorship). 
+I attempt to keep this reverse-chronological list up-to-date (last updated: 13 July 2023). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist. (+) denotes equal contribution (joint-first or joint-last authorship). 
 
 ### 2023
+
+Mixed strain pathogen populations accelerate the evolution of antibiotic resistance in patients  
+J. Diaz Caballero, R.M. Wheatley, N. Kapel, C. López-Causapé, T. Van der Schalk, A. Quinn, **L.P. Shaw**, L. Ogunlana, C. Recanatini, B. Britto Xavier, L. Timbermont, J. Kluytmans, A. Ruzin, M. Esser, S. Malhotra-Kumar, A. Oliver, R.C. MacLean. *Nature Communications* 14:4083 (2023)  
+doi: [10.1038/s41467-023-39416-2](https://doi.org/10.1038/s41467-023-39416-2)  
+
+
+Diverse Durham collection phages demonstrate complex BREX defence responses  
+A. Kelly, S. Went, G. Mariano, **L.P. Shaw**, D. Picton, S. Duffner, I. Coates, R. Herdman-Grant, J. Gordeeva, A. Drobiazko, A. Isaev, Y.-J. Lee, Y. Luyten, R. Morgan, P. Weigele, K. Severinov, N. Wenner, J. Hinton, and T.R. Blower. *Applied and Environmental Microbiology* (in press)  
+
 
 Restriction-modification systems have shaped the evolution and distribution of plasmids across bacteria  
 **L.P. Shaw**, E. P. C. Rocha, R. C. MacLean. *Nucleic Acids Research* (2023)  
