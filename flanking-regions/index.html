@@ -2,7 +2,9 @@
  
 Interactive plots of the +/- 5kb flanking regions around beta-lactamase genes, as analysed in Shaw and Neher (2023). For details, see the manuscript. 
 
-<p>Homology block plots (full: complete dataset, reduced: unique block patterns only):</p>
+<br>
+<p><b>Homology block plots</b>:</p>
+
 <ul>
 <li>blaCMY-2: <a href="CMY-2_linear_blocks.html">full</a>, <a href="CMY-2_linear_blocks_deduplicated.html">reduced</a> </li>
 <li>blaCTX-M-15: <a href="CTX-M-15_linear_blocks.html">full</a>, <a href="CTX-M-15_linear_blocks_deduplicated.html">reduced</a> </li>
@@ -18,7 +20,18 @@ Interactive plots of the +/- 5kb flanking regions around beta-lactamase genes, a
 <li>blaVIM-1: <a href="VIM-1_linear_blocks.html">full</a>, <a href="VIM-1_linear_blocks_deduplicated.html">reduced</a></li>
 </ul>
 
-<p>Breakpoint distance distributions:</p>
+<b>How to use</b><br>
+These show a linear representation of the flanking regions (+/- 5kb) around the focal gene.<br>
+'Full' show all sequences analysed; 'reduced' only those with unique block patterns.<br>
+Sequence blocks are coloured by inferred sequence homology (grey=unique block, only occurs once in one sequence in     dataset).<br>
+Click on a block to highlight that block; hold shift and click to select multiple blocks.<br>
+Double-click to unselect blocks.<br>
+Y-axis order of sequences is determined by pairwise Jaccard index in terms of blocks.<br>
+Annotations of CDS can be toggled on/off using the checkbox at bottom.<br>
+Mouseover gives more information on homology block or CDS annotation.
+
+
+<p><b>Breakpoint distance distributions</b>:</p>
 <ul>
 <li><a href="CMY-2_ecdf.html">blaCMY-2</a></li>
 <li><a href="CTX-M-15_ecdf.html">blaCTX-M-15</a></li>
