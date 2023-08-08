@@ -4,9 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this reverse-chronological list up-to-date (last updated: 13 July 2023). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist. (+) denotes equal contribution (joint-first or joint-last authorship). 
+I attempt to keep this reverse-chronological list up-to-date (last updated: 8 August 2023). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist. (+) denotes equal contribution (joint-first or joint-last authorship). 
 
 ### 2023
+
+Visualizing and quantifying structural diversity around mobile AMR genes  
+**L.P. Shaw** and R.A. Neher. *biorxvi* (2023)  
+preprint: [10.1101/2023.08.07.551646](https://doi.org/10.1101/2023.08.07.551646) 
+ 
 
 Mixed strain pathogen populations accelerate the evolution of antibiotic resistance in patients  
 J. Diaz Caballero, R.M. Wheatley, N. Kapel, C. López-Causapé, T. Van der Schalk, A. Quinn, **L.P. Shaw**, L. Ogunlana, C. Recanatini, B. Britto Xavier, L. Timbermont, J. Kluytmans, A. Ruzin, M. Esser, S. Malhotra-Kumar, A. Oliver, R.C. MacLean. *Nature Communications* 14:4083 (2023)  
