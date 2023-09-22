@@ -10,6 +10,6 @@ Currently I'm a Sir Henry Wellcome postdoctoral fellow in the Department of Biol
 
 ### Contact
 
-Academic: firstname lastname [usual symbol] zoo.ox.ac.uk
+Academic: firstname lastname [usual symbol] biology.ox.ac.uk
 
 Other (gmail): liam.philip.shaw
