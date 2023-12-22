@@ -4,14 +4,21 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this reverse-chronological list up-to-date (last updated: 8 August 2023). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist. (+) denotes equal contribution (joint-first or joint-last authorship). 
+I attempt to keep this reverse-chronological list up-to-date (last updated: 22 December 2023). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist. (+) denotes equal contribution (joint-first or joint-last authorship). 
 
 ### 2023
 
 Visualizing and quantifying structural diversity around mobile AMR genes  
-**L.P. Shaw** and R.A. Neher. *biorxvi* (2023)  
-preprint: [10.1101/2023.08.07.551646](https://doi.org/10.1101/2023.08.07.551646) 
+**L.P. Shaw** and R.A. Neher. *Microbial Genomics* (2023)  
+doi: [10.1099/mgen.0.001168](https://doi.org/10.1099/mgen.0.001168)  
+preprint: [10.1101/2023.08.07.551646](https://doi.org/10.1101/2023.08.07.551646)  
  
+ 
+Regulatory fine-tuning and horizontal gene transfer stabilize mobile colistin resistance  
+L. Ogunlana, **L.P. Shaw**, D. Kuar, P. Jangir, T. Walsh, S. Uphoff, C. MacLean. *ISME* (2023) 
+doi: [10.1038/s41396-023-01509-7](https://doi.org/10.1038/s41396-023-01509-7)  
+preprint: [10.1101/2022.11.04.515217](https://doi.org/10.1101/2022.11.04.515217)  
+
 
 Mixed strain pathogen populations accelerate the evolution of antibiotic resistance in patients  
 J. Diaz Caballero, R.M. Wheatley, N. Kapel, C. López-Causapé, T. Van der Schalk, A. Quinn, **L.P. Shaw**, L. Ogunlana, C. Recanatini, B. Britto Xavier, L. Timbermont, J. Kluytmans, A. Ruzin, M. Esser, S. Malhotra-Kumar, A. Oliver, R.C. MacLean. *Nature Communications* 14:4083 (2023)  
@@ -19,7 +26,8 @@ doi: [10.1038/s41467-023-39416-2](https://doi.org/10.1038/s41467-023-39416-2)
 
 
 Diverse Durham collection phages demonstrate complex BREX defence responses  
-A. Kelly, S. Went, G. Mariano, **L.P. Shaw**, D. Picton, S. Duffner, I. Coates, R. Herdman-Grant, J. Gordeeva, A. Drobiazko, A. Isaev, Y.-J. Lee, Y. Luyten, R. Morgan, P. Weigele, K. Severinov, N. Wenner, J. Hinton, and T.R. Blower. *Applied and Environmental Microbiology* (in press)  
+A. Kelly, S. Went, G. Mariano, **L.P. Shaw**, D. Picton, S. Duffner, I. Coates, R. Herdman-Grant, J. Gordeeva, A. Drobiazko, A. Isaev, Y.-J. Lee, Y. Luyten, R. Morgan, P. Weigele, K. Severinov, N. Wenner, J. Hinton, and T.R. Blower. *Applied and Environmental Microbiology* (2023)  
+doi: [10.1128/aem.00623-23](https://doi.org/10.1128/aem.00623-23)    
 
 
 Restriction-modification systems have shaped the evolution and distribution of plasmids across bacteria  
@@ -55,11 +63,6 @@ doi: [10.3389/fmicb.2023.1070340](https://doi.org/10.3389/fmicb.2023.1070340)
 Gut to lung translocation and antibiotic mediated selection shape the dynamics of *Pseudomonas aeruginosa* in an ICU patient  
 R. M. Wheatley, J. D. Caballero, T. E. van der Schalk, F.H.R. De Winter, **L. P Shaw**, N. Kapel, C. Recanatini, L. Timbermont, J. Kluytmans, M. Esser, A. Lacoma, C. Prat-Aymerich, A. Oliver, S. Kumar-Singh, S. Malhotra-Kumar, R. C. MacLean. *Nature Communications* (2022)  
 doi: [10.1038/s41467-022-34101-2](https://doi.org/10.1038/s41467-022-34101-2)  
-
-
-Regulatory fine-tuning and horizontal gene transfer stabilize mobile colistin resistance  
-L. Ogunlana, **L.P. Shaw**, D. Kuar, P. Jangir, T. Walsh, S. Uphoff, C. MacLean. *biorxiv* (2022)  
-preprint: [10.1101/2022.11.04.515217](https://doi.org/10.1101/2022.11.04.515217)  
 
 
 The mobilome associated with Gram-negative bloodstream infections: A large-scale observational hybrid sequencing based study  
