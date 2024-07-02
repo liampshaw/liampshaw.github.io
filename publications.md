@@ -16,7 +16,7 @@ Global genomic epidemiology of blaGES-5 carbapenemase-associated integrons
 W. Matlock,  **L.P. Shaw**(+),  N. Stoesser(+). *bioRxiv* (2024)  
 doi: [10.1101/2024.02.09.579496](https://doi.org/10.1101/2024.02.09.579496)  
 
-Recent approaches in computational modelling for controlling pathogen threats  
+Review: Recent approaches in computational modelling for controlling pathogen threats  
 J.A. Lees, T.W. Russell, **L.P. Shaw**,  J. Hellewell. *Life Science Alliance* (2024)  
 doi: [10.26508/lsa.202402666](https://doi.org/10.26508/lsa.202402666)  
 
