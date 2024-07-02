@@ -4,7 +4,28 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this reverse-chronological list up-to-date (last updated: 22 December 2023). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist. (+) denotes equal contribution (joint-first or joint-last authorship). 
+I attempt to keep this reverse-chronological list up-to-date (last updated: 2 July 2024). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist. (+) denotes equal contribution (joint-first or joint-last authorship). 
+
+### 2024
+
+Adaptation of Pseudomonas aeruginosa to repeated invasion into a commensal competitor  
+R.M. Wheatley, **L.P. Shaw**, S. Shah, S. Lindon, R.C. MacLean. *bioRxiv* (2024)  
+doi: [10.1101/2024.03.19.585690](https://doi.org/10.1101/2024.03.19.585690)  
+
+Global genomic epidemiology of blaGES-5 carbapenemase-associated integrons  
+W. Matlock,  **L.P. Shaw**(+),  N. Stoesser(+). *bioRxiv* (2024)  
+doi: [10.1101/2024.02.09.579496](https://doi.org/10.1101/2024.02.09.579496)  
+
+Recent approaches in computational modelling for controlling pathogen threats  
+J.A. Lees, T.W. Russell, **L.P. Shaw**,  J. Hellewell. *Life Science Alliance* (2024)  
+doi: [10.26508/lsa.202402666](https://doi.org/10.26508/lsa.202402666)  
+
+
+The plasmidome associated with Gram-negative bloodstream infections: A large-scale observational study using complete plasmid assemblies  
+S. Lipworth(+), W. Matlock(+), **L.P. Shaw** et al. *Nature Communications* (2024)  
+doi: [10.1038/s41467-024-45761-7](https://doi.org/10.1038/s41467-024-45761-7)  
+preprint: [10.1101/2022.04.03.22273290](https://doi.org/10.1101/2022.04.03.22273290)  
+
 
 ### 2023
 
@@ -65,8 +86,6 @@ R. M. Wheatley, J. D. Caballero, T. E. van der Schalk, F.H.R. De Winter, **L. P 
 doi: [10.1038/s41467-022-34101-2](https://doi.org/10.1038/s41467-022-34101-2)  
 
 
-The mobilome associated with Gram-negative bloodstream infections: A large-scale observational hybrid sequencing based study  
-S. Lipworth(+), W. Matlock(+), **L.P. Shaw**, et al. *medrxiv* (2022)  
 preprint: [10.1101/2022.04.03.22273290](https://doi.org/10.1101/2022.04.03.22273290)  
 
 
