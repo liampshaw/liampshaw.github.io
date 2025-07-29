@@ -7,11 +7,11 @@ permalink: /writing/
 My book on the history of antibiotics, *Dangerous Miracle*, is out on 21 August 2025 (UK, published by [Bodley Head]((https://www.penguin.co.uk/books/455232/dangerous-miracle-by-shaw-liam/9781847927545)) and 23 September 2025 (US, published by [Simon and Schuster](https://www.simonandschuster.com/books/Dangerous-Miracle/Liam-Shaw/9781668023631)). 
 
 <div style="overflow: auto;">
-  <img src="{{ site.baseurl }}/images/dangerous-miracle-uk.png"
+  <img src="{{ site.baseurl }}/images/dangerous-miracle-UK.png"
        width="30%" 
        style="float: left; padding: 0px 20px 0px 0px;" />
 <p>
-To order in the UK: [Bookshop.org](https://uk.bookshop.org/a/447/9781847927545?utm=penguinbookpage), [Waterstones](https://www.waterstones.com/book/9781847927545), [Blackwells](https://blackwells.co.uk/bookshop/product/9781847927545?a_aid=prh), [Foyles](https://www.foyles.co.uk/book/9781847927545). 
+To order in the UK: <a href="https://uk.bookshop.org/a/447/9781847927545">Bookshop.org</a> [Bookshop.org](https://uk.bookshop.org/a/447/9781847927545?utm=penguinbookpage), [Waterstones](https://www.waterstones.com/book/9781847927545), [Blackwells](https://blackwells.co.uk/bookshop/product/9781847927545?a_aid=prh), [Foyles](https://www.foyles.co.uk/book/9781847927545). 
 </p>
 </div>
 
