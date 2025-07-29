@@ -4,17 +4,30 @@ title: Publications
 permalink: /publications/
 ---
 
-I attempt to keep this reverse-chronological list up-to-date (last updated: 2 July 2024). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist. (+) denotes equal contribution (joint-first or joint-last authorship). 
+I attempt to keep this reverse-chronological list up-to-date (last updated: 29 July 2025). More recent publications may be on [Google Scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ). Articles are nearly all open access; links to preprints are included where they exist. (+) denotes equal contribution (joint-first or joint-last authorship). 
+
+### 2025
+
+The leading region of many conjugative plasmids is depleted in restriction-modification targets  
+**L.P. Shaw**, A. Peñil Celis, M. Ares Arroyo, L. Luo, T. Dimitriu, F. de la Cruz. *biorxiv* (2025)  
+preprint: [10.1101/2025.04.03.647016](https://doi.org/10.1101/2025.04.03.647016)  
+
+Quantifying the Evolutionary Dynamics of Structure and Content in Closely Related *E. coli* Genomes  
+M. Molari, **L.P. Shaw**, R.A. Neher. *Molecular Biology and Evolution* (2025)  
+doi: [10.1093/molbev/msae272](https://doi.org/10.1093/molbev/msae272)  
+preprint: [10.1101/2024.07.08.602537](https://doi.org/10.1101/2024.07.08.602537)  
+
 
 ### 2024
 
 Adaptation of Pseudomonas aeruginosa to repeated invasion into a commensal competitor  
 R.M. Wheatley, **L.P. Shaw**, S. Shah, S. Lindon, R.C. MacLean. *bioRxiv* (2024)  
-doi: [10.1101/2024.03.19.585690](https://doi.org/10.1101/2024.03.19.585690)  
+preprint: [10.1101/2024.03.19.585690](https://doi.org/10.1101/2024.03.19.585690)  
 
 Global genomic epidemiology of blaGES-5 carbapenemase-associated integrons  
-W. Matlock,  **L.P. Shaw**(+),  N. Stoesser(+). *bioRxiv* (2024)  
-doi: [10.1101/2024.02.09.579496](https://doi.org/10.1101/2024.02.09.579496)  
+W. Matlock,  **L.P. Shaw**(+),  N. Stoesser(+). *Microbial Genomics* (2024)  
+doi: [10.1099/mgen.0.001312](https://doi.org/10.1099/mgen.0.001312)  
+preprint: [10.1101/2024.02.09.579496](https://doi.org/10.1101/2024.02.09.579496)  
 
 Review: Recent approaches in computational modelling for controlling pathogen threats  
 J.A. Lees, T.W. Russell, **L.P. Shaw**,  J. Hellewell. *Life Science Alliance* (2024)  

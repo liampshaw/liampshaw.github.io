@@ -4,7 +4,15 @@ title:
 permalink: /writing/
 ---
 
-I sometimes write pieces for the *LRB*: [here](https://www.lrb.co.uk/contributors/liam-shaw).
+<img src="{{ site.baseurl }}/images/dangerous-miracle-UK.png" width=50%   align="left" style="float: left; padding: 0px 20px 0px 0px;">
+
+## Dangerous Miracle
+
+My book on the history of antibiotics is out on 21 August 2025 (UK) and 23 September 2025 (US). You can preorder it [here (UK)](https://www.penguin.co.uk/books/455232/dangerous-miracle-by-shaw-liam/9781847927545) and [here (US)](https://www.simonandschuster.com/books/Dangerous-Miracle/Liam-Shaw/9781668023631).  
+
+### Other writing
+
+I sometimes write pieces for the *London Review of Books*: [here](https://www.lrb.co.uk/contributors/liam-shaw).
 
 I co-write a fortnightly science column in the *Morning Star*: [here](https://morningstaronline.co.uk/author/science-and-society).
 
