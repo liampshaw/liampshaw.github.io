@@ -4,7 +4,7 @@ title:
 permalink: /writing/
 ---
 
-My book on the history of antibiotics, *Dangerous Miracle*, is published by [Bodley Head (UK)](https://www.penguin.co.uk/books/455232/dangerous-miracle-by-shaw-liam/9781847927545) and [Simon and Schuster (US)](https://www.simonandschuster.com/books/Dangerous-Miracle/Liam-Shaw/9781668023631).  
+My book on the history of antibiotics, *Dangerous Miracle*, is due out in late 2025.
 
 <div style="overflow: auto;">
   <img src="{{ site.baseurl }}/images/dangerous-miracle-UK.png"
@@ -12,6 +12,9 @@ My book on the history of antibiotics, *Dangerous Miracle*, is published by [Bod
        style="float: left; padding: 0px 20px 0px 0px;" />
 <p>
 <b>UK publication: 21 August 2025</b>
+</p>
+<p>
+Published by [Bodley Head](https://www.penguin.co.uk/books/455232/dangerous-miracle-by-shaw-liam/9781847927545)
 </p>
 <p>
 Links to order: <a href="https://uk.bookshop.org/a/447/9781847927545">Bookshop.org</a>, <a href="https://www.waterstones.com/book/9781847927545">Waterstones</a>, <a href="https://blackwells.co.uk/bookshop/product/9781847927545?a_aid=prh">Blackwells</a>, <a href="https://www.foyles.co.uk/book/9781847927545">Foyles</a>.
@@ -32,6 +35,9 @@ Events: <ul>
        style="float: left; padding: 0px 20px 0px 0px;" />
 <p>
 <b>US publication: 23 September 2025</b>
+</p>
+<p>
+Published by [Simon & Schuster](https://www.simonandschuster.com/books/Dangerous-Miracle/Liam-Shaw/9781668023631)
 </p>
 <p>
 Links to order: <a href="https://www.barnesandnoble.com/w/?ean=9781668023631">Barnes and Noble</a>, <a href="https://www.booksamillion.com/p/9781668023631">Books-A-Million</a>, <a href="https://bookshop.org/a/1688/9781668023631">Bookshop.org</a>, <a href="https://www.target.com/s?searchTerm=9781668023631">Target</a>.
