@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+This page gives a rough overview of my current academic interests. 
+
 ### Bacterial genetics
 
 The increasing availability of [complete bacterial genomes](https://doi.org/10.1099/mgen.0.000294) allows the investigation of the processes which underpin bacterial evolution. I'm particularly interested in the spread of mobile genetic elements which move ['horizontally'](https://doi.org/10.1038/s41467-018-03205-z) across bacterial genomes and even species, and untangling this nested genetic complexity. These elements include bits of DNA called plasmids, as well as smaller ones such as transposons, both of which move genes for antimicrobial resistance around. We historically don't understand much about the evolution of these elements compared to bacterial chromosomes - but we're making headway.
@@ -14,7 +16,7 @@ The human microbiome is the collective name given to the microbial communities t
 
 ### Antimicrobial resistance
 
-My current research focuses on understanding the processes behind the development and subsequent spread of antimicrobial resistance using genomic data. This can be at multiple scales, from [within patients](https://doi.org/10.1093/cid/ciz069) to [global spread](https://doi.org/10.1038/s41467-018-03205-z). I've previously been involved in efforts to improve the availability of surveillance data of antimicrobial resistance, including carrying out work awarded a [Data Reuse Prize](https://doi.org/10.1186/s12864-019-5782-2) by Wellcome.  
+My current research focuses on understanding the processes behind the development and subsequent spread of antimicrobial resistance (AMR)  using genomic data. This can be at multiple scales, from [within patients](https://doi.org/10.1093/cid/ciz069) to [global spread](https://doi.org/10.1038/s41467-018-03205-z). I've previously been involved in efforts to improve the availability of surveillance data of AMR, including carrying out work awarded a [Data Reuse Prize](https://doi.org/10.1186/s12864-019-5782-2) by Wellcome.  
 
 ### Other topics
 
