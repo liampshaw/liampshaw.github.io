@@ -4,7 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I'm a biologist. My research focuses on analysing and modelling bacterial evolution. I'm particularly interested in the genetics of antimicrobial resistance (AMR).
+<div style="overflow: auto;">
+  <img src="{{ site.baseurl }}/images/Liam-Shaw-headshot-2025.jpg"
+       width="30%" 
+       style="float: left; padding: 0px 20px 0px 0px;" />
+
+  <p>
+I'm a biologist. My research focuses on analysing and modelling bacterial       evolution. I'm particularly interested in the genetics of antimicrobial         resistance (AMR).
+  </p>
+</div>
 
 I'm currently based at the University of Bristol. Before that I was a Sir Henry Wellcome postdoctoral fellow in the Department of Biology, Oxford (2021-2025). I did my PhD in Computational Biology at UCL (2018).
 
