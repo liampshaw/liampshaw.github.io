@@ -22,6 +22,7 @@ Events: <ul>
     <li>10 September, Waterstones London Trafalgar Square.</li>
     <li>11 September, Blackwells Edinburgh (<a href="https://www.eventbrite.co.uk/e/liam-shaw-dangerous-miracle-tickets-1440836874879">link</a>).</li>
     <li>15 September, Topping & Co. Bath (<a href="https://www.toppingbooks.co.uk/events/bath/liam-shaw-in-bath/">link</a>).</li>
+    </ul>
 </p>
 </div>
 
