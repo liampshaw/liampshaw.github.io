@@ -2,40 +2,14 @@
 layout: default
 ---
 
-
-<body>
-<div style="overflow: auto;">
- <img src="{{ site.baseurl }}/images/dangerous-miracle-UK.png"
-
-       width="30%" 
-       style="float: left; padding: 0px 20px 0px 0px;" 
-       alt="Dangerous Miracle book cover">
-  <p>
-    I’m a biologist researching bacterial evolution, currently based at the University of Bristol. My 
-    <a href="{{ site.baseurl }}/research">research</a> mainly focuses on the genetics of antimicrobial resistance (AMR). 
-    Here you can find links to my <a href="{{ site.baseurl }}/publications">scientific publications</a> and 
-    <a href="{{ site.baseurl }}/writing">other writing</a>.
-  </p>
-
-  <p>
-    My book on the history of antibiotics, <i>Dangerous Miracle</i>, is out on 21 August 2025 (UK) and is 
-    <a href="https://liampshaw.github.io/writing/">available</a> for preorder.
-  </p>
-</div>
-</body>
-
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url={{ site.baseurl }}/about/" />
+    <link rel="canonical" href="{{ site.baseurl }}/about/" />
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <p>If you are not redirected, <a href="{{ site.baseurl }}/about/">click here</a>.</p>
+  </body>
+</html>
