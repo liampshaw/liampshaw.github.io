@@ -4,7 +4,7 @@ title:
 permalink: /writing/
 ---
 
-My book on the history of antibiotics, *Dangerous Miracle*, is due out in late 2025.
+My book on the history of antibiotics, *Dangerous Miracle*, is out now.
 
 <div style="overflow: auto;">
   <img src="{{ site.baseurl }}/images/dangerous-miracle-UK.png"
@@ -18,14 +18,6 @@ Published by <a href="https://www.penguin.co.uk/books/455232/dangerous-miracle-b
 </p>
 <p>
 Links to order: <a href="https://uk.bookshop.org/a/447/9781847927545">Bookshop.org</a>, <a href="https://www.waterstones.com/book/9781847927545">Waterstones</a>, <a href="https://blackwells.co.uk/bookshop/product/9781847927545?a_aid=prh">Blackwells</a>, <a href="https://www.foyles.co.uk/book/9781847927545">Foyles</a>.
-</p>
-<p>
-Bookshop events: <ul>
-    <li>9 September, Waterstones Cambridge (<a href="https://www.waterstones.com/events/dangerous-miracle-an-evening-with-liam-shaw/cambridge">link</a>).</li>
-    <li>10 September, Waterstones London Trafalgar Square.</li>
-    <li>11 September, Blackwells Edinburgh (<a href="https://www.eventbrite.co.uk/e/liam-shaw-dangerous-miracle-tickets-1440836874879">link</a>).</li>
-    <li>15 September, Topping & Co. Bath (<a href="https://www.toppingbooks.co.uk/events/bath/liam-shaw-in-bath/">link</a>).</li>
-    </ul>
 </p>
 </div>
 
@@ -48,7 +40,7 @@ Links to order: <a href="https://www.barnesandnoble.com/w/?ean=9781668023631">Ba
 
 ### Journalism
 
-I sometimes write pieces for the *London Review of Books*: [here](https://www.lrb.co.uk/contributors/liam-shaw).
+I write pieces for the *London Review of Books*: [here](https://www.lrb.co.uk/contributors/liam-shaw).
 
 I co-write a fortnightly science column in the *Morning Star*: [here](https://morningstaronline.co.uk/author/science-and-society).
 
