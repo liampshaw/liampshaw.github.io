@@ -16,7 +16,7 @@ I'm a biologist based at the University of Bristol. I research bacterial evoluti
 Before coming to Bristol I was a Sir Henry Wellcome Postdoctoral Fellow in the Department of Biology, Oxford (2021-2025). Before that, I did my PhD in Computational Biology at UCL (2018).
 </p>
 <p>
-Alongside my academic research, I <a href="">write</a> about science. My first book, <i>Dangerous Miracle</i>, is being published in late 2025. 
+Alongside my academic research, I <a href="">write</a> about science. My first book, <i>Dangerous Miracle</i>, is available to buy now. 
 </p>
 <p>
 (Photo credit: Katherine Hannaford.)
@@ -25,6 +25,4 @@ Alongside my academic research, I <a href="">write</a> about science. My first b
 
 ### Contact
 
-Academic: firstname [dot] lastname [at] bristol.ac.uk
-
-Other (gmail): liam.philip.shaw
+firstname [dot] lastname [at] bristol.ac.uk
