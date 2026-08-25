@@ -65,8 +65,7 @@ US: published by <a href="https://www.simonandschuster.com/books/Dangerous-Mirac
 Links to order: <a href="https://www.barnesandnoble.com/w/?ean=9781668023631">Barnes and Noble</a>, <a href="https://www.booksamillion.com/p/9781668023631">Books-A-Million</a>, <a href="https://bookshop.org/a/1688/9781668023631">Bookshop.org</a>, <a href="https://www.target.com/s?searchTerm=9781668023631">Target</a>.
 
 </p>
-
-Current translations in progress: Polish, Italian, Russian. 
 </div>
 
+Current translations in progress: Polish, Italian, Russian. 
 
